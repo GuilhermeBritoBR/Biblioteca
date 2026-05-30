@@ -6,25 +6,18 @@ html,body{
     font-family: Arial, Helvetica, sans-serif;
 }
 header{
-    height: 7%;
+    height: 4%  ;
     width: 100%;
     background-color: #30241F;
     display: flex;
     color: #ffff;   
-    text-align: left;
-    align-items: center;
-    justify-content: left;
-}
-.sections-buttons{
-    border: 1px  solid #000000;
-    display: inline-block;
-    padding: 10px;  
+    text-align: center;
     align-items: center;
     justify-content: center;
-    padding: 0px;;
 }
 
-.text-link, h3{
+
+ h3{
     margin-left: 30px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -34,6 +27,47 @@ header{
     border: none;
     background-color: #30241F;
 }
-.button-section-header{
 
+.search{
+    width: 260px;
+    height: 45px;
+    background-color: #30241F;
+    border-radius: 12px;
+    margin:0 auto;
+}
+.search-button{
+    width: 0    px;
+    height: 0px;
+    background-color: none;
+    border: none ;
+}
+/* painel settings */
+painel{
+    height: 35%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #716059;
+}
+.img-painel{
+    display: block;
+    width: 216px;
+    height: 270px;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+/* lista */
+.div-lista{
+    background-color: #30241f9b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+tr{
+font-weight: normal;}
+tr{
+    text-wrap: none;
 }
