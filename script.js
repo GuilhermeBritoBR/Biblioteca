@@ -3335,7 +3335,7 @@ function exibirLivros(listaLivros) {
     const tabela = document.getElementById("lista");
 
     tabela.innerHTML = `
-        <tr style="text-align: "center">
+        <tr style="text-align": "center"; font-weight: none; text->
             <th>ID</th>
             <th>Autor</th>
             <th>Livro</th>
@@ -3398,3 +3398,4 @@ window.addEventListener("DOMContentLoaded", () => {
     exibirLivros(catalogo.catalogo);
 
 });
+

@@ -1,39 +1,102 @@
+
 <html>
     <head>
-        <meta charset="UTF-8">
-        <link href="src/styles/styles.css" type="text/css" rel="stylesheet"/>
-        
-        <title>B. F.</title>
-        <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-
+        <meta charset="UTF-8">  
+        <title>Biblioteca</title>
+        <link rel="stylesheet" href="styles.css" />
+        <link rel="shortcut icon" href="src/images/logo.png" />
     </head>
      <header>
                         <!--seção de botoes-->
-                        <input style="width: 260px;
-    height: 35px;
-    border-radius: 12px;
-" type="search" id="search" placeholder="Buscar livro, autor ou área"/>
+                        <input id="search" style="font-size: 20px; width: 290px; height: 40px; border-radius: 12px; padding: 10px;" type="search" id="search" placeholder="Buscar livro, autor ou área"/>
                         <div id="search-button"></div>
-                        
-                        
-
                     
         </header>
         
     <body>
-        <painel>
-            <img src="./src/images/Sem título - 29 de maio de 2026 às 09.07.24.png"
-            id="img-painel"
-    height= "100%";/>
-    <h1 style="margin-left: 0px; margin-right: 0px; padding: 8px; font-weight: bolder; color: #ffff">Biblioteca seminário FDCC</h1>
-         <img src="./src/images/logo.png"
-            id="img-painel"
-    height= "100%";
-    colo/>    
-        </painel>
+        <div id="banner" style=" display:flex;  padding: 10px;  background-color: #F8F4E3; justify-content: center;">
+            <div style=" 
+                border: 4px solid transparent;
+    border-radius: 8px;
+    display: inline-block;
+            margin-right: 60px;
+    background:
+        linear-gradient(#D4AF37, #F4E4A6) padding-box,
+        linear-gradient(
+            45deg,
+            #6b4f00,
+            #d4af37,
+            #fff2a8,
+            #d4af37,    
+            #6b4f00
+        ) border-box; height: 303px;
+                padding: 5px; border-radius: 5px; background-color: gold; width: 265px; display: flex; justify-content: center;" class="quadromadalena">
+                <img src="./src/images/madalena.png" width="265px" height="303px"/>
+            </div>  
+            <div style=" 
+                border: 4px solid transparent;
+    border-radius: 8px; 
+    display: inline-block;
+    background:
+        linear-gradient(#D4AF37, #F4E4A6) padding-box,
+        linear-gradient(
+            45deg,
+            #6b4f00,
+            #d4af37,
+            #fff2a8,
+            #d4af37,
+            #6b4f00
+        ) border-box; height: 303px;
+                padding: 5px; border-radius: 5px; background-color: gold; width: 245px; display: flex; justify-content: center; align-items: center;" class="quadromadalena">
+                <img src="./src/images/bakhita.png" width="100%"/>
+            </div>
+<div style=" 
+                border: 4px solid transparent;
+    border-radius: 8px; 
+    background:
+        linear-gradient(#D4AF37, #F4E4A6) padding-box,
+        linear-gradient(
+            45deg,
+            #6b4f00,
+            #d4af37,
+            #fff2a8,
+            #d4af37,    
+            #6b4f00
+        ) border-box;
+        margin-right: 60px;
+        margin-left: 60px;
+                padding: 5px; border-radius: 5px; width: 468px; height: 300px; " class="quadromadalena">        
+                
+            <img src="src/images/canossianos.png" style="border-radius: 12px;" height="300px"/>
+            
+            </div>
+
+            <div style=" 
+                border: 4px solid transparent;
+    border-radius: 8px;
+    display: inline-block;
+            margin-right: 60px;
+    background:
+        linear-gradient(#D4AF37, #F4E4A6) padding-box,
+        linear-gradient(
+            45deg,
+            #6b4f00,
+            #d4af37,
+            #fff2a8,
+            #d4af37,    
+            #6b4f00
+        ) border-box;
+                padding: 5px; border-radius: 5px; background-color: gold; width: 218px; display: flex; justify-content: center;" class="quadromadalena">
+                <img src="./src/images/5c1e9fc474e5d7c37460e42c0a229be0.png" width="218px" height="315px"/>
+            </div> 
+
+
+       </div>     
+
+
        <div id="lista-div">
         <table id="lista"></table>
+        <br>
         </div>
         <script src="script.js">
         </script>
