@@ -1,5 +1,6 @@
 const catalogo = [
-    {
+    
+ {
   "ID": 1,
   "Autor": "Platão",
   "Livro": "Diálogos Fedon- Sofista Político",
@@ -3323,7 +3324,1271 @@ const catalogo = [
   "Livro": "I - História das grandes ideias do mundo ocidental",
   "Setor": "e10",
   "Área": "Obr. Sel"
- }
+ },
+ {
+  "ID": 474,
+  "Autor": "Não identificado",
+  "Livro": "Não Identificado - Sem Capa e contracapa",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 475,
+  "Autor": "Eduardo Galvão",
+  "Livro": "Indios e brancos no Brasil - Encontro de sociedades",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 476,
+  "Autor": "Liborni Siqueira",
+  "Livro": "Sociologia do direito do menor",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 477,
+  "Autor": "Roberto Martins Ferreira",
+  "Livro": "Sociologia da Educação",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 478,
+  "Autor": "P. Agnelo Rossi",
+  "Livro": "A filosofia do comunismo",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 479,
+  "Autor": "Sir Karl R. Popper",
+  "Livro": "A sociedade aberta e seus inimigos",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 480,
+  "Autor": "Thomas Meyer ",
+  "Livro": "Socialismo Democrático: Uma introdução",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 481,
+  "Autor": "Dalto Caram",
+  "Livro": "Violência na sociedade Contemporanea",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 482,
+  "Autor": "Pedro Negre Rigol",
+  "Livro": "Sociologia do terceiro mundo",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 483,
+  "Autor": "Maria Cristina Castilho Costa",
+  "Livro": "Sociologia - introdução à ciência da sociedade",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 484,
+  "Autor": "Marta Harnecker",
+  "Livro": "Socialismo e comunismo",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 485,
+  "Autor": "Julien Freund",
+  "Livro": "Sociologia de Max Weber",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 486,
+  "Autor": "Paul Singer",
+  "Livro": "O que é socialismo hoje",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 487,
+  "Autor": "Émile Durkheim",
+  "Livro": "As regras do método sociológico",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 488,
+  "Autor": "peter l.berger",
+  "Livro": "Perspectivas sociológicas - uma visão humanística",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 489,
+  "Autor": "Florestan Fernandes",
+  "Livro": "A sociologia no Brasil",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 490,
+  "Autor": "Raul Gomez Treto",
+  "Livro": "A igreja e o socialismo",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 491,
+  "Autor": "Henrique C.L Vaz",
+  "Livro": "Antropologia Filosófica I",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 492,
+  "Autor": "Marta Harnecker",
+  "Livro": "Os conceitos elementares do materialismo histórico",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 493,
+  "Autor": "Antonio Gramsci",
+  "Livro": "Os intelectuais e a organização da cultura",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 494,
+  "Autor": "Friedrich Nietsche",
+  "Livro": "Genealogia della morale - uno scritto polemico",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 495,
+  "Autor": "Bruce G. Trigger",
+  "Livro": "Além da história: os métodos da pré-história",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 496,
+  "Autor": "Immanuel Kant",
+  "Livro": "Crítica da razão prática",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 497,
+  "Autor": "Urbano J. Alicate",
+  "Livro": "O negro e sua história",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 498,
+  "Autor": "Jacobb Gorender",
+  "Livro": "O escravismo colonial - ensaios 29",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 499,
+  "Autor": "Althusser - Badiou",
+  "Livro": "Materialismo histórico e materialismo dialético",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 500,
+  "Autor": "Marta Harnecker",
+  "Livro": "Exploração capitalista",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 501,
+  "Autor": "Paulo Martinez",
+  "Livro": "Direitos de cidadania - um lugar ao sol",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 502,
+  "Autor": "Sérgio Mibielli",
+  "Livro": "O internauta - novela  filosófica",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 503,
+  "Autor": "Leo huberman",
+  "Livro": "História da riqueza do homem",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 504,
+  "Autor": "Leon Pomer",
+  "Livro": "América, Histórias delírios e outras magias",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 505,
+  "Autor": "Maria Conceição d'incão e mello",
+  "Livro": "O bóia fria- acumulação e miséria",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 506,
+  "Autor": "Fernando Jordão",
+  "Livro": "Dossieê Herzog",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 507,
+  "Autor": "Manuel Castells",
+  "Livro": "Cidade, democracia e socialismo",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 508,
+  "Autor": "Gilberto Cotrim",
+  "Livro": "Educação para uma escola democrática - história e filosofia da Educação",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 509,
+  "Autor": "Max Weber",
+  "Livro": "A ética protestante e o espírito do capitalismo",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 510,
+  "Autor": "Manuel Scorza",
+  "Livro": "Bom dia para os defuntos",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 511,
+  "Autor": "Serviço de educação popular",
+  "Livro": "Capitalismo e classe operária no Brasil",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 512,
+  "Autor": "Mikhail Gorbachiov",
+  "Livro": "A URSS rumo ao século XXI",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 513,
+  "Autor": "CNBB",
+  "Livro": "Em defesa do povo yanonami",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 514,
+  "Autor": "Sérgio Caparelli",
+  "Livro": "Comunicação de Massa sem Massa",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 515,
+  "Autor": "Marco Antonio Gonçalves",
+  "Livro": "Formação da cidadania - proposta educacional",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 516,
+  "Autor": "Ciro Marcondes Filho",
+  "Livro": "Televisão - a vida pelo vídeo",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 517,
+  "Autor": "Antonio Estevam de Lima Sobrinho",
+  "Livro": "Fome - agricultura e política no Brasil - A chantagem alimentar",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 518,
+  "Autor": "Theobaldo M. Santos",
+  "Livro": "Curso de filosofia e ciências - Manual de sociologia",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 519,
+  "Autor": "Pinto Ferreira",
+  "Livro": "Capitais estrangeiros e dívida externa do Brasil",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 520,
+  "Autor": "Carlos Eduardo Novaes",
+  "Livro": "Capitalismo para principiantes",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 521,
+  "Autor": "Ronaldo do Livramento Coutinho",
+  "Livro": "Operário de construção Civil - Urbanização, migração e classe operária no Brasil",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 522,
+  "Autor": "Octavio Lanni",
+  "Livro": "Dialética e Capitalismo - ensaio sobre o pensamento de Marx",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 523,
+  "Autor": "Paulo Nogueira Filho",
+  "Livro": "Conjuração - Das opressões capitalistas e comunistas",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 524,
+  "Autor": "Orlando Vilela",
+  "Livro": "A violência no mundo atual",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 525,
+  "Autor": "Max Weber",
+  "Livro": "A ética protestante e o espírito do capitalismo",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 526,
+  "Autor": "Mikhail Gorbachiov",
+  "Livro": "Perestroika - novas idéis para o meu país e o mundo",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 527,
+  "Autor": "Dom josé Maria Pires",
+  "Livro": "O grito de milhões de escravas - a cumplicidade do silêncio",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 528,
+  "Autor": "Luis Gonzaga de Souza Lima",
+  "Livro": "Evolução Política dos católicos de da Igreja no Brasil - Hipóteses para uma interpretação",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 529,
+  "Autor": "José Carlos LibÂneo",
+  "Livro": "Democratização da Escola pública",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 530,
+  "Autor": "Albert Tevoedjre",
+  "Livro": "A pobreza, riqueza dos povos - A transformação pela solidariedade",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 531,
+  "Autor": "Fernando Henrique Cardoso",
+  "Livro": "Dependência e desenvolvimento na América Latina - Ensaio de interpretação sociológica",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 532,
+  "Autor": "Harry Braverman",
+  "Livro": "Trabalho e capital monopolista",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 533,
+  "Autor": "Marialice Mercarini Foracchi",
+  "Livro": "Sociologia e sociedade",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 534,
+  "Autor": "Eva Maria Lakatos",
+  "Livro": "Sociologia Geral",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 535,
+  "Autor": "Alfonso Trujillo Forrari ",
+  "Livro": "Fundamentos de Sociologia",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 536,
+  "Livro": "A questão agrária na Bahia",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 537,
+  "Autor": "Alvin Toffler",
+  "Livro": "A morte do industrialismo e o nascimento de uma nova civilização - a terceira onda",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 538,
+  "Autor": "Raul Gomez Treto",
+  "Livro": "A igreja e o socialismo",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 539,
+  "Livro": "Perfil dos Atingidos - projeto Brasil: Nunca mais",
+  "Setor": "e4",
+  "Área": "Socio",
+  "Ed": "Arq São Paulo"
+ },
+ {
+  "ID": 540,
+  "Autor": "Amintore Fanfani",
+  "Livro": "Capitalismo Catolicismo Protestantismo",
+  "Setor": "e4",
+  "Área": "Socio"
+ },
+ {
+  "ID": 541,
+  "Autor": "Heleieth Lara B. Saffioti",
+  "Livro": "Emprego doméstico e capitalismo",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 542,
+  "Autor": "Ludovico Monden",
+  "Livro": "Consciência renovada",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 543,
+  "Autor": "Natália Reis de Morais",
+  "Livro": "Escalando Sentidos",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 544,
+  "Autor": "Maria Stela Graciani",
+  "Livro": "Bernardete Toneto",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 545,
+  "Autor": "Max Weber",
+  "Livro": "A ética protestante e o espírito do capitalismo",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 546,
+  "Autor": "R. Laurentin",
+  "Livro": "O neoconservadorismo - um fenômeno social e religioso",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 547,
+  "Autor": "Jung Mo sung",
+  "Livro": "A idolotria do Capital e a more dos Pobres",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 548,
+  "Autor": "Jung Mo sung",
+  "Livro": "A idolotria do Capital e a more dos Pobres",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 549,
+  "Autor": "Hugo Assmann Theotonio",
+  "Livro": "A trilateral nova fase do capitalismo mundial",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 550,
+  "Autor": "Hugo Assmann Theotonio",
+  "Livro": "A trilateral nova fase do capitalismo mundial",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 551,
+  "Autor": "G. Smirnov",
+  "Livro": "O homem soviético - A formação da personalidade socialista",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 552,
+  "Autor": "Enrique M. Urena",
+  "Livro": "Karl Marx Economista",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 553,
+  "Autor": "José Arthur Giannotti",
+  "Livro": "Trabalho e reflexão - ensaios para uma dialética de sociabilidade",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 554,
+  "Autor": "N.I Rijkov",
+  "Livro": "O progresso para o homem",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 555,
+  "Autor": "Henrique Veltman",
+  "Livro": "O que há atrás da Perestroika - pós-revolução Russsa",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 556,
+  "Autor": "Maria Antonietta Macciocchi",
+  "Livro": "A favor de Gramsci",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 557,
+  "Livro": "Cidade, povo e poder",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 558,
+  "Autor": "Júlia Falivene",
+  "Livro": "Metrópoles Cidadania e qualidade de vida",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 559,
+  "Autor": "Júlia Falivene",
+  "Livro": "Metrópoles Cidadania e qualidade de vida",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 560,
+  "Autor": "Roberto Sant'anna",
+  "Livro": "Molduras de miséria",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 561,
+  "Autor": "Luís Maria",
+  "Livro": "América Latina - Nosvas estratégias de dominação",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 562,
+  "Autor": "B.F  Skinner",
+  "Livro": "Uma sociedade do futuro",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 563,
+  "Autor": "B.F  Skinner",
+  "Livro": "Uma sociedade do futuro",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 564,
+  "Autor": "B.F  Skinner",
+  "Livro": "Uma sociedade do futuro",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 565,
+  "Autor": "Brendan Callanan",
+  "Livro": "O confllito social",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 566,
+  "Autor": "Charles Wheelan",
+  "Livro": "Economia nua e crua ",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 567,
+  "Autor": "Ceas",
+  "Livro": "300 anos de zumbi",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 568,
+  "Autor": "Marta Harnecker",
+  "Livro": "Capitalismo e socialismo",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 569,
+  "Autor": "Gene Sharp",
+  "Livro": "Poder, luta e defesa - teoria e prática da ação não-violenta",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 570,
+  "Autor": "Gene Sharp",
+  "Livro": "Poder, luta e defesa - teoria e prática da ação não-violenta",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 571,
+  "Autor": "Antônio Fragoso",
+  "Livro": "A força da não-violência - A firmeza-permanente",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 572,
+  "Autor": "Antônio Fragoso",
+  "Livro": "A força da não-violência - A firmeza-permanente",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 573,
+  "Autor": "Heraldo Barbuy",
+  "Livro": "Marxismo e religião",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 574,
+  "Autor": "Manoel Maurício de Albuquerque",
+  "Livro": "Pequena hist[oria da frmação social brasileira",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 575,
+  "Autor": "Jung Mo sung",
+  "Livro": "A idolotria do Capital e a more dos Pobres",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 576,
+  "Autor": "Daniel Guérin",
+  "Livro": "Biblioteca Anarquista Proudhon - textos escolhidos",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 577,
+  "Autor": "Daniel Guérin",
+  "Livro": "Biblioteca Anarquista Bakunin - textos escolhidos",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 578,
+  "Autor": "Émile Durkheim",
+  "Livro": "As formas elementares de vida religiosa",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 579,
+  "Autor": "Émile Durkheim",
+  "Livro": "As formas elementares de vida religiosa",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 580,
+  "Autor": "Émile Durkheim",
+  "Livro": "As formas elementares de vida religiosa",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 581,
+  "Autor": "Charbonneau",
+  "Livro": "Desenvolvimentos dos povos",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 582,
+  "Autor": "Nikolaj Berdjaev",
+  "Livro": "Le fonti e il significato del comunismo russo",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 583,
+  "Autor": "Friedrich Engels",
+  "Livro": "A dilética da natureza",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 584,
+  "Autor": "Friedrich Engels",
+  "Livro": "Anti-duhring",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 585,
+  "Autor": "Peter L. Berger",
+  "Livro": "Le piramidi del sacrificio - etica politica e trasformazione sociale",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 586,
+  "Autor": "Francesco Skoda",
+  "Livro": "L'ateismo comunista sovietico",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 587,
+  "Autor": "Emanuele Amodio Vincenzo Pira",
+  "Livro": "Indios: Sterminio o resistenza - La questione indigena in Brasile",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 588,
+  "Autor": "Max Weber",
+  "Livro": "L'Etica Protestante e lo spirito del capitalismo",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 589,
+  "Autor": "Morire Per l'uomo",
+  "Livro": "La persecuzione in Argentina",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 590,
+  "Autor": "AA.VV",
+  "Livro": "Rapporto Kissinger Sul Cento America",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 591,
+  "Autor": "Giulio Battistella",
+  "Livro": "SUD-NORD Falkland-Malvine e desaparecidos",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 592,
+  "Autor": "Maria Antonietta Macciocchi",
+  "Livro": "Dalla Cina - dopo la rivoluzione culturale",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 593,
+  "Autor": "Jacques Sémelin",
+  "Livro": "Per uscire Dalla violenza ",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 594,
+  "Autor": "Societá Editrice il Mulino",
+  "Livro": "Il potere militare nelle societá contemporanee",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 595,
+  "Autor": "Albert K. Cohen",
+  "Livro": "Controllo sociale e comportamente deviante",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 596,
+  "Autor": "Studi, Ricerche",
+  "Livro": "La societá",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 597,
+  "Autor": "Lá Societá",
+  "Livro": "La Democrazia",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 598,
+  "Livro": "Città Dell'uomo - Una repobblica fondata sul lavoro",
+  "Setor": "e3",
+  "Área": "Socio"
+ },
+ {
+  "ID": 599,
+  "Autor": "Pedro Rabello",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 600,
+  "Autor": "Carlos Augusto Ferreira",
+  "Livro": "Histórias cambiantes",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 601,
+  "Autor": "Julio Lourenço Pinto",
+  "Livro": "O senhor deputado",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 602,
+  "Autor": "Luís Gama",
+  "Livro": "Trovas Burlescas",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 603,
+  "Autor": "Bernadim Ribeiro",
+  "Livro": "Menina e moça",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 604,
+  "Autor": "Couto de Magalhães",
+  "Livro": "Viagem ao Araguaia",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 605,
+  "Autor": "Bocage",
+  "Livro": "Sonetos",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 606,
+  "Autor": "Padre Antônio Vieira",
+  "Livro": "Sermões",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 607,
+  "Autor": "Joaquim Nabuco",
+  "Livro": "Minha Formação",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 608,
+  "Autor": "D. João da Câmara",
+  "Livro": "Contos",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 609,
+  "Autor": "Julio César Machado",
+  "Livro": "Contos ao luar",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 610,
+  "Autor": "Guimarães Junior",
+  "Livro": "Contos sem pretensão",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 611,
+  "Autor": "Valentim Magalhães",
+  "Livro": "Flor de sangue",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 612,
+  "Autor": "Pinherio Chagas",
+  "Livro": "Tristezas à beira-mar",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 613,
+  "Autor": "José do Patrocínio ",
+  "Livro": "Os retirantes (II)",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 614,
+  "Autor": "José do Patrocínio ",
+  "Livro": "Os retirantes (I)",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 615,
+  "Autor": "Trindade Coelho",
+  "Livro": "Os meus amores",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 616,
+  "Autor": "Gomes de Amorim",
+  "Livro": "As duas fronteiras",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 617,
+  "Autor": "Araripe Júnior",
+  "Livro": "Jacina, a marabá",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 618,
+  "Autor": "Teixeira e Souza",
+  "Livro": "As tardes de um pintor",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 619,
+  "Autor": "Apolinário Porto-Alegre",
+  "Livro": "O Vaqueano",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 620,
+  "Autor": "Bruno Seabra",
+  "Livro": "Paulo",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 621,
+  "Autor": "Rabelo da Silva ",
+  "Livro": "Contos e lendas",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 622,
+  "Autor": "Gonzaga Duqe",
+  "Livro": "Mocidade Morta",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 623,
+  "Autor": "Álvares de Azevedo",
+  "Livro": "Noite na taverna Macário",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 624,
+  "Autor": "Fialho d'Almeida",
+  "Livro": "O país das uvas",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 625,
+  "Autor": "Artur Azevedo ",
+  "Livro": "Contos",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 626,
+  "Autor": "Manuel de Oliveira Paiva",
+  "Livro": "Dona Guidinha do poço",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 627,
+  "Autor": "Domingos Olímpio",
+  "Livro": "Luzia Homem",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 628,
+  "Autor": "Manuel Antonio de Almeida",
+  "Livro": "Memórias de um sargento de milícias",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 629,
+  "Autor": "Almeida Garrett",
+  "Livro": "Viagem à minha terra",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 630,
+  "Autor": "Franklin Tavora",
+  "Livro": "O cabelereira",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 631,
+  "Autor": "Bernando Guimarães",
+  "Livro": "A escrava Isaura",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 632,
+  "Autor": "Camilo Castelo Branco",
+  "Livro": "Amor de perdição",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 633,
+  "Autor": "Aluísio de Azevedo",
+  "Livro": "Casa de pensão",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 634,
+  "Autor": "Raul Pompéia",
+  "Livro": "O ateneu",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 635,
+  "Autor": "Euclides da Cunha",
+  "Livro": "Os sertões (II)",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 636,
+  "Autor": "Euclides da Cunha",
+  "Livro": "Os sertões (I)",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 637,
+  "Autor": "Adolfo Caminha",
+  "Livro": "A normalista",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 638,
+  "Autor": "Alexandre Herculano",
+  "Livro": "Eurico, o presbítero",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 639,
+  "Autor": "Visconde de taunay",
+  "Livro": "Inocência",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 640,
+  "Autor": "José de Alencar ",
+  "Livro": "Iracema Lucíola",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 641,
+  "Autor": "Pardal Mallet",
+  "Livro": "Hóspede",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 642,
+  "Autor": "Lúcio de Mendonça",
+  "Livro": "O mariado da adúltera",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 643,
+  "Autor": "Elsa Escudero",
+  "Livro": "Tierra Fértil",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 644,
+  "Autor": "Edgardo Sosa",
+  "Livro": "O essencial é invisível aos olhos - reflexões a partir de O pequeno príncipe",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 645,
+  "Autor": "Rachel de Queiroz",
+  "Livro": "Dôra doralina",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 646,
+  "Autor": "Roberto de Castro Del'secchi",
+  "Livro": "Antologia del'secchi",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 647,
+  "Autor": "Roberto di Cassi",
+  "Livro": "Sedas e trapos",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 648,
+  "Autor": "Alphonsus de Guimaraens",
+  "Livro": "Poesia",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 649,
+  "Autor": "Alphonsus de Guimaraens",
+  "Livro": "Poesia",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 650,
+  "Autor": "José de Anchieta",
+  "Livro": "Poesia",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 651,
+  "Autor": "L. Bloy",
+  "Livro": "Il sangue del povero",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 652,
+  "Autor": "Elsa Escudero",
+  "Livro": "Tierra Fértil",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 653,
+  "Autor": "Antônio Joaquim Severino",
+  "Livro": "Como ler um texto de filosofia",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 654,
+  "Autor": "Elsa Escudero",
+  "Livro": "Tierra Fértil",
+  "Setor": "g6",
+  "Área": "Literatura"
+ },
+
 ];
 
 

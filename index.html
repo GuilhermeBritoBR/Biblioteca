@@ -5,6 +5,7 @@
         <title>Biblioteca</title>
         <link rel="stylesheet" href="styles.css" />
         <link rel="shortcut icon" href="src/images/logo.png" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
      <header>
                         <!--seção de botoes-->
@@ -100,6 +101,50 @@
         </div>
         <script src="script.js">
         </script>
+        <style>
+            @media screen and (max-width: 768px) {
+
+    /* Oculta o banner inteiro */
+    #banner{
+        display: none !important;
+    }
+
+    /* Barra de pesquisa */
+    header{
+        width: 100%;
+        padding: 10px;
+        text-align: center;
+        box-sizing: border-box;
+    }
+
+    #search{
+        width: 95% !important;
+        max-width: 500px;
+        height: 45px !important;
+        font-size: 18px !important;
+        box-sizing: border-box;
+    }
+
+    /* Resultados */
+    #lista-div{
+        width: 100%;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+
+    #lista{
+        width: 100%;
+        font-size: 14px;
+    }
+    table{
+        border: 0px solid #000000;
+    }
+    table th{
+        border: 0px solid #000000;
+        border-bottom: 1px solid #000000;
+    }
+}
+        </style>
     </body>
     <foooter>   
     </foooter>
