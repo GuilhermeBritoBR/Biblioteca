@@ -1,5 +1,6 @@
 const catalogo = [
     
+ 
  {
   "ID": 1,
   "Autor": "Platão",
@@ -4588,6 +4589,3195 @@ const catalogo = [
   "Setor": "g6",
   "Área": "Literatura"
  },
+ {
+  "ID": 655,
+  "Autor": "Lima Barreto",
+  "Livro": "Triste fim de Policarpo Quaresma",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 656,
+  "Autor": "Manuel Bandeira",
+  "Livro": "Libertinagem e Estrela da Manhã",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 657,
+  "Autor": "Rachel de Queiroz",
+  "Livro": "Memorial de Maria Moura",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 658,
+  "Autor": "Erico Verissimo",
+  "Livro": "Um certo Capitão Rodrigo",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 659,
+  "Autor": "Carlos Drummond de Andrade",
+  "Livro": "Sentimento do Mundo",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 660,
+  "Autor": "Jorge Amado",
+  "Livro": "Tocaia Grande - a face obscura",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 661,
+  "Autor": "João Cabral de Melo Neto",
+  "Livro": "Morte e Vida severina",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 662,
+  "Autor": "Machado de Assis ",
+  "Livro": "Dom Casmurro",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 663,
+  "Autor": "Ferreira Gullar",
+  "Livro": "Poema Sujo",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 664,
+  "Autor": "Mario Quintana",
+  "Livro": "A vaca e o hipogrifo",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 665,
+  "Autor": "Ariano Suassuna",
+  "Livro": "Auto da compadecida",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 666,
+  "Autor": "Mario de Andrade",
+  "Livro": "Macunaíma - o Heroí sem nenhum caráter",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 667,
+  "Autor": "Graciliano Ramos",
+  "Livro": "Infância",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 668,
+  "Autor": "Antonio Callado ",
+  "Livro": "Reflexos do Baile",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 669,
+  "Autor": "Nelson Rodrigues",
+  "Livro": "Vestido de Noiva",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 670,
+  "Autor": "Rubem Fonseca",
+  "Livro": "Agosto",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 671,
+  "Autor": "Cacília Meireles",
+  "Livro": "Romanceiro da Inconfidência",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 672,
+  "Autor": "João Guimarães Rosa",
+  "Livro": "Primeiras Estórias",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 673,
+  "Autor": "Oswald de Andrade",
+  "Livro": "O rei da vela",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 674,
+  "Autor": "Vinicius de Moraes",
+  "Livro": "Para viver um grande amor",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 675,
+  "Autor": "José Saramago",
+  "Livro": "História do Cerco de Lisboa",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 676,
+  "Autor": "José Saramago ",
+  "Livro": "História do Cerco de Lisboa",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 677,
+  "Autor": "Marguerite Duras",
+  "Livro": "O amante",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 678,
+  "Autor": "Marguerite Duras",
+  "Livro": "O amante",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 679,
+  "Autor": "Umberto Eco",
+  "Livro": "O nome da Rosa",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 680,
+  "Autor": "Umberto Eco",
+  "Livro": "O nome da Rosa",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 681,
+  "Autor": "Vladimir Nabokov",
+  "Livro": "Lolita",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 682,
+  "Autor": "Vladimir Nabokov",
+  "Livro": "Lolita",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 683,
+  "Autor": "Mario Vargas Llosa",
+  "Livro": "Pantaleón e as visitadoras",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 684,
+  "Autor": "Geroge Orwell",
+  "Livro": "A revolução dos bichos",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 685,
+  "Autor": "Geroge Orwell",
+  "Livro": "A revolução dos bichos",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 686,
+  "Autor": "Graciliano Ramos",
+  "Livro": "Angústia",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 687,
+  "Autor": "Italo Svevo",
+  "Livro": "A consciência de Zeno",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 688,
+  "Autor": "Gabriel García Márquez",
+  "Livro": "Cem anos de solidão",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 689,
+  "Autor": "Virginia Woolf",
+  "Livro": "Rumo ao Farol",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 690,
+  "Autor": "Henry Miller",
+  "Livro": "Trópico de Câncer",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 691,
+  "Autor": "Joseph Conrad",
+  "Livro": "A linha de sombra",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 692,
+  "Autor": "Joseph Conrad",
+  "Livro": "A linha de sombra",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 693,
+  "Autor": "F. Scoott Fitzgerald",
+  "Livro": "O grande Gatsby",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 694,
+  "Autor": "F. Scoott Fitzgerald",
+  "Livro": "O grande Gatsby",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 695,
+  "Autor": "Simone de Beauvoir",
+  "Livro": "A mulher desiludida",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 696,
+  "Autor": "Ernest Hemingway",
+  "Livro": "O velho e o Mar",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 697,
+  "Autor": "James Joyce",
+  "Livro": "Dublinenses",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 698,
+  "Autor": "Italo Calvino",
+  "Livro": "As Cidades invisíveis",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 699,
+  "Autor": "Graham Greene",
+  "Livro": "Nosso homem em Havana",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 700,
+  "Autor": "William Golding",
+  "Livro": "O senhor das Moscas",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 701,
+  "Autor": "Thomas Mann",
+  "Livro": "Morte em Veneza",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 702,
+  "Autor": "Franz Kafka ",
+  "Livro": "O processo",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 703,
+  "Autor": "Hermann Hesse ",
+  "Livro": "Sidarta",
+  "Setor": "f11",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 704,
+  "Autor": "John Stainbeck",
+  "Livro": "As vinhas da Ira",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 705,
+  "Autor": "Oscar Wilde ",
+  "Livro": "O retrato de Dorian Gray",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 706,
+  "Autor": "Emile Zola",
+  "Livro": "Germinal",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 707,
+  "Autor": "Walter Scott",
+  "Livro": "Ivanhoé",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 708,
+  "Autor": "Luigi Pirandello",
+  "Livro": "O falecido Mattia Pascal",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 709,
+  "Autor": "Henry James",
+  "Livro": "Lady Barberina - Outra Volta do Parafuso",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 710,
+  "Autor": "Voltaire",
+  "Livro": "Contos",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 711,
+  "Autor": "Henry Graham Greene",
+  "Livro": "Nosso homem em Havana",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 712,
+  "Autor": "N.V Gógol",
+  "Livro": "Almas mortas",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 713,
+  "Autor": "Herman Melville",
+  "Livro": "Moby Dick",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 714,
+  "Autor": "David Herbert Lawrence",
+  "Livro": "O amante de Lady Chatterley",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 715,
+  "Autor": "Sinclair Lewis",
+  "Livro": "Babitt",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 716,
+  "Autor": "Virginia Woolf",
+  "Livro": "Mrs. Dalloway Orlando",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 717,
+  "Autor": "Curzio Malaparte",
+  "Livro": "A pele",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 718,
+  "Autor": "Alberto Moravia",
+  "Livro": "A romana",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 719,
+  "Autor": "André Mairaux",
+  "Livro": "A condição Humana",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 720,
+  "Autor": "Abril",
+  "Livro": "Os imortais da Literatura Universal - 3",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 721,
+  "Autor": "Abril",
+  "Livro": "Os imortais da Literatura Universal - 1",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 722,
+  "Autor": "Padre A. Vieira",
+  "Livro": "Sermões - 5",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 723,
+  "Autor": "Padre A. Vieira",
+  "Livro": "Sermões - 4",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 724,
+  "Autor": "Padre A. Vieira",
+  "Livro": "Sermões - 3",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 725,
+  "Autor": "Padre A. Vieira",
+  "Livro": "Sermões - 2",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 726,
+  "Autor": "Padre A. Vieira",
+  "Livro": "Sermões - 1",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 727,
+  "Autor": "Machado de Assis ",
+  "Livro": "Resurreição - A mão e a luva",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 728,
+  "Autor": "Machado de Assis ",
+  "Livro": "Quincas Borba",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 729,
+  "Autor": "Machado de Assis ",
+  "Livro": "Memorial de Aires - O alienista",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 730,
+  "Autor": "Machado de Assis ",
+  "Livro": "Helena - Iaià Garcia",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 731,
+  "Autor": "Machado de Assis ",
+  "Livro": "Esáu e Jacó",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 732,
+  "Autor": "Machado de Assis ",
+  "Livro": "Memórias póstumas de Brás Cubas",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 733,
+  "Autor": "Luis de Camões",
+  "Livro": "Os lusíadas",
+  "Setor": "f10",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 734,
+  "Autor": "Fiódor M. Dostoiévski",
+  "Livro": "Os irmãos Karamázovi",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 735,
+  "Autor": "Charles Dickens",
+  "Livro": "As aventuras do Sr. Pickwiok",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 736,
+  "Autor": "Gustava Fiaubert",
+  "Livro": "Madame Bovary",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 737,
+  "Autor": "Miguel de Cerventes Saavedra",
+  "Livro": "Novelas Exemplares",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 738,
+  "Autor": "Giovanni Boccaccio",
+  "Livro": "Decamerão",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 739,
+  "Autor": "Honoré de Balzac",
+  "Livro": "Eugênia Grandet",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 740,
+  "Autor": "Alexandre Dumas Oau",
+  "Livro": "Os três Mosqueteiros",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 741,
+  "Autor": "Johann Wolfgang Von Goethe",
+  "Livro": "Werther",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 742,
+  "Autor": "Henri Fielding",
+  "Livro": "Tom jones",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 743,
+  "Autor": "Emily Bronté",
+  "Livro": "O morro dos ventos uivantes",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 744,
+  "Autor": "Joseph Conrad",
+  "Livro": "Lorde Jim",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 745,
+  "Autor": "Gabrielle S. Colette",
+  "Livro": "A vagabunda",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 746,
+  "Autor": "Ernest Hemingway",
+  "Livro": "O sol também se levanta",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 747,
+  "Autor": "Ivan Turguêniev",
+  "Livro": "Pais e filhos",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 748,
+  "Autor": "James Joyce",
+  "Livro": "Retrato do artista quando jovem",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 749,
+  "Autor": "Machado de Assis ",
+  "Livro": "Memórias póstumas de Brás Cubas - Dom casmurro",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 750,
+  "Autor": "Thomas Mann",
+  "Livro": "Tonio Kroeger - A morte em Veneza",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 751,
+  "Autor": "Victor Hugo",
+  "Livro": "Os trabalhados do Mar",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 752,
+  "Autor": "W. Somerset Maugham",
+  "Livro": "Servidão Humana",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 753,
+  "Autor": "Leão Tostói",
+  "Livro": "Ana Karênina",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 754,
+  "Autor": "Alessandro Manzoni",
+  "Livro": "Os Noivos",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 755,
+  "Autor": "Jonathan Swift",
+  "Livro": "Viagens de Gulliver",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 756,
+  "Autor": "Stendhai",
+  "Livro": "O vermelho e o Negro",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 757,
+  "Autor": "Thomas Hardy",
+  "Livro": "Judas, o Obscuro",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 758,
+  "Autor": "Choderlos de Lacíos",
+  "Livro": "As relações perigosas",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 759,
+  "Autor": "Aldous Huxley",
+  "Livro": "Contraponto",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 760,
+  "Autor": "Eça da Queirós",
+  "Livro": "O primo basílo",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 761,
+  "Autor": "Nikos Kazantzakis",
+  "Livro": "O Cristo Recrucificado",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 762,
+  "Autor": "André Gide ",
+  "Livro": "Os subterrâneos do Vaticano",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 763,
+  "Autor": "Daniel Defos",
+  "Livro": "Moll Flanders",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 764,
+  "Autor": "F. Scott Fitzgeralo",
+  "Livro": "Suave é a noite",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 765,
+  "Autor": "Jean-Paul-Sartre",
+  "Livro": "Idade da razão",
+  "Setor": "f9",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 766,
+  "Autor": "Machado de Assis ",
+  "Livro": "Memorial de Aires",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 767,
+  "Autor": "Machado de Assis ",
+  "Livro": "Memórias Póstumas de Brás Cubas",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 768,
+  "Autor": "Machado de Assis ",
+  "Livro": "Contos Fluminenses",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 769,
+  "Autor": "Luiz Puntel",
+  "Livro": "Menis sem pátria",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 770,
+  "Autor": "Luiz Viana Filho",
+  "Livro": "A vida de Machado de Assis",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 771,
+  "Autor": "Machado de Assis ",
+  "Livro": "Iaiá Garcia",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 772,
+  "Autor": "Carlos Heitor ",
+  "Livro": "Cony - quase memória",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 773,
+  "Autor": "João Ubaldo Ribeiro ",
+  "Livro": "Sargento Getúlio",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 774,
+  "Autor": "W. Somerset Maugham",
+  "Livro": "O fio da Navalha",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 775,
+  "Autor": "Robert Musil",
+  "Livro": "O jovem torless",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 776,
+  "Autor": "Arthur Schnitzler",
+  "Livro": "Breve Romande de Sonho",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 777,
+  "Autor": "Marcel Proust",
+  "Livro": "No Caminho de Swann",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 778,
+  "Autor": "Leopoldo Salmaso",
+  "Livro": "II Golpe Latino - Mario Monti Costretto per errore a salvare Iítalia",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 779,
+  "Autor": "Brigolini Gran Dottori",
+  "Livro": "Família Brigolin",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 780,
+  "Autor": "Álvares de Azevedo",
+  "Livro": "Lira dos vintes anos",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 781,
+  "Autor": "VR. Vidal",
+  "Livro": "Curiosidades - 6",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 782,
+  "Autor": "VR. Vidal",
+  "Livro": "Curiosidades - 5",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 783,
+  "Autor": "VR. Vidal",
+  "Livro": "Curiosidades - 4",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 784,
+  "Autor": "VR. Vidal",
+  "Livro": "Curiosidades - 1",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 785,
+  "Autor": "Machado de Assis ",
+  "Livro": "Histórias da meia noite",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 786,
+  "Autor": "Machado de Assis ",
+  "Livro": "A mão e a luva",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 787,
+  "Autor": "Machado de Assis ",
+  "Livro": "Esaú e Jacob",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 788,
+  "Autor": "Machado de Assis ",
+  "Livro": "Dom Casmurro",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 789,
+  "Autor": "Machado de Assis ",
+  "Livro": "Esaú e Jacob",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 790,
+  "Autor": "Machado de Assis ",
+  "Livro": "Quincas Borba - APÊNDICE",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 791,
+  "Autor": "Machado de Assis ",
+  "Livro": "Várias Histórias",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 792,
+  "Autor": "Machado de Assis ",
+  "Livro": "Histórias sem data",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 793,
+  "Autor": "Machado de Assis ",
+  "Livro": "Relíquias de casa velha",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 794,
+  "Autor": "Marguerite Yourcenar",
+  "Livro": "Memórias de Adriano",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 795,
+  "Autor": "Zaia Brandão",
+  "Livro": "A crise dos paradigmas e a educação",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 796,
+  "Autor": "Kurt Kloetzel",
+  "Livro": "O que é medicina preventiva",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 797,
+  "Autor": "Elda Rizzo de Oliveira",
+  "Livro": "O que é medicina popular",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 798,
+  "Autor": "Patrícia Birman",
+  "Livro": "O que é Umbanda",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 799,
+  "Autor": "Roque Jacintho",
+  "Livro": "O que é espiritismo",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 800,
+  "Autor": "Ricardo L.C. Antunes",
+  "Livro": "O que é sindicalismo",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 801,
+  "Autor": "Alan Índio Serrano",
+  "Livro": "O que é medicina alternativa",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 802,
+  "Autor": "Evaldo Vieira",
+  "Livro": "O que é desobediência civil",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 803,
+  "Autor": "Frei Betto",
+  "Livro": "O que é comunidade eclesial de base",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 804,
+  "Autor": "Carlos A.P Tavares",
+  "Livro": "O que são comunidades alternativas",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 805,
+  "Autor": "Carlos A.H gabara",
+  "Livro": "O que é cometa Halley",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 806,
+  "Autor": "Glauco Mattoso",
+  "Livro": "O que é tortura",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 807,
+  "Autor": "V.D. Zótov",
+  "Livro": "A doutrina Leninista sobre as revoluções de libertção nacional e a actualidade",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 808,
+  "Autor": "Agenor de Oliveira Freitas",
+  "Livro": "Ouro e paixão nos rios amazônicos",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 809,
+  "Autor": "Vinicius de Moraes",
+  "Livro": "Antologia poética",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 810,
+  "Autor": "João Augusto Pompei",
+  "Livro": "Na presença do sentido - uma aproximação fenomenológica a questões existenciais básicas",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 811,
+  "Autor": "Shakespeare",
+  "Livro": "Otelo (tragédia) - Tradução: Carlos Alberto Nunes",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 812,
+  "Autor": "Mário Picchi",
+  "Livro": "Vencer a droga - experiência, prevenção e envolvimento",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 813,
+  "Autor": "Marurício Abdalla",
+  "Livro": "O princípio da cooperação - em busca de uma nova racacionalidade",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 814,
+  "Autor": "Elle Di Ci",
+  "Livro": "Mini enciclopedia dello svago",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 815,
+  "Autor": "B. Mondin",
+  "Livro": "O homem quem é ele? - Elementos de antropologia filosófica",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 816,
+  "Autor": "Sara Gruen",
+  "Livro": "Água para elefantes",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 817,
+  "Autor": "Cosac & Naify",
+  "Livro": "Cacaso lero-lero",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 818,
+  "Autor": "…",
+  "Livro": "Dona beija em Versos - Aualidades Reminiscências",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 819,
+  "Autor": "P. Joseph de Anchieta",
+  "Livro": "Teatro de Anchieta",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 820,
+  "Autor": "George R.R Martin",
+  "Livro": "A guerra dos tronos - as crônicas de gelo e fogo - 1",
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 821,
+  "Autor": "Maria Lúcia de Arruda Aranha",
+  "Livro": "Filosofia da educação",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 822,
+  "Autor": "Carlos Rodrigues Brandão",
+  "Livro": "O que é educação",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 823,
+  "Autor": "Paulo Freire",
+  "Livro": "Para Trabalhar com o povo",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 824,
+  "Autor": "Paulo Freire",
+  "Livro": "Pedagogia do oprimido",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 825,
+  "Autor": "Maria Lúcia de Arruda Aranha",
+  "Livro": "História da educação",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 826,
+  "Autor": "Paulo Freire",
+  "Livro": "Ação cultural para a liberdade",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 827,
+  "Autor": "Maria da Glória de Rosa",
+  "Livro": "A história da educação através dos texto (textos antigos de vários filósofos e etc)",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 828,
+  "Autor": "…",
+  "Livro": "O livro de Mórmom - Um outro testamento de Jesus Cristo",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 829,
+  "Autor": "Pier Angelo Gamaglia",
+  "Livro": "Espiritismo - dimensões ocultas da realidade?",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 830,
+  "Autor": "Antonino Lucisano e Maria Luisa Di Pietro",
+  "Livro": "Sexualidade Humana - orientação sexual para adolescentes e jovens",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 831,
+  "Autor": "Charbonneau e Me. Cristina Maria",
+  "Livro": "Amor Sexo e seguraça",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 832,
+  "Autor": "Cultrix",
+  "Livro": "Guia prático de antropologia",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 833,
+  "Autor": "Ernest Renan",
+  "Livro": "Vida de Jesus",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 834,
+  "Autor": "Martinho Lutero",
+  "Livro": "Do cativeiro babilônico da Igreja",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 835,
+  "Autor": "George R.R Martin",
+  "Livro": "A fúria dos reis - As crônicas de gelo e fogo - 2",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 836,
+  "Autor": "George R.R Martin",
+  "Livro": "A tormenta de espadas - as crônicas de gelo e fogo - 3",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 837,
+  "Autor": "Robert Slater",
+  "Livro": "Estratégias de investimento de George Soros",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 838,
+  "Autor": "Warren Bennis ",
+  "Livro": "A invenção de uma vida",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 839,
+  "Autor": "Robert Tomasko",
+  "Livro": "Crescer, não destruir",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 840,
+  "Autor": "D. Consonni - L. P. Mazza",
+  "Livro": "Poesia e prosa - dal secolo xiii ai giorni nostri",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 841,
+  "Autor": "Joaquim Nabuco",
+  "Livro": "Trechos Escolhidos",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 842,
+  "Autor": "Rolllo May",
+  "Livro": "A arte do aconselhamento psicológico",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 843,
+  "Autor": "Jorge Luiz Brand",
+  "Livro": "Formação humana e parapsicologia",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 844,
+  "Autor": "R. Tagore",
+  "Livro": "Pássaros perdidos",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 845,
+  "Autor": "Roland Barhes",
+  "Livro": "Mitologias",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 846,
+  "Autor": "Eça de Queirós",
+  "Livro": "A dcidade e as serras",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 847,
+  "Autor": "Guilherme Figueiredo",
+  "Livro": "Trinta anos sem paisagem",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 848,
+  "Autor": "José de Alencar",
+  "Livro": "O sertanejo",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 849,
+  "Autor": "Ronald Lewin",
+  "Livro": "Churchill - o lorde da guerra",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 850,
+  "Autor": "Freia Adolfo Temme",
+  "Livro": "Mala de couro - diário de uma desobriga",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 851,
+  "Autor": "Emilliano Fittipaldi",
+  "Livro": "Lussuria, peccati, sandali e tradimente di una chiesa fatta di uomini",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 852,
+  "Autor": "Darcy Ribeiro",
+  "Livro": "O livro dos Cieps",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 853,
+  "Autor": "Wellington Silva Jardim",
+  "Livro": "Administrar a própria Vida - O negócio mais urgente",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 854,
+  "Autor": "IçamiTiba",
+  "Livro": "Adolescentes: quem ama, educa!",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 855,
+  "Autor": "Maria Amélia Azevedo",
+  "Livro": "Infância e violência doméstica: fronteiras do conhecimento",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 856,
+  "Autor": "TonI Carré",
+  "Livro": "Mil poetas Brasileiros (1995)",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 857,
+  "Livro": "Mark McNeilly, Sun Tzu e arte dos negócios",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 858,
+  "Livro": "Regis McKenna, estratégias de Marketing em tepos de Crise",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 859,
+  "Livro": "Richar Whiteley, a empresa totalmente voltada para o cleinte",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 860,
+  "Livro": "Paul Krugman, internacionalismo pop",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 861,
+  "Livro": "John Kotter, liderando mudança",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 862,
+  "Autor": "Robert Slater",
+  "Livro": "Liderança de alto impacto",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 863,
+  "Autor": "Arie de Geus",
+  "Livro": "A empresa viva",
+  "Setor": "g7",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 864,
+  "Autor": "Machado de Assis ",
+  "Livro": "Memórias póstumas de Brás Cubas - Bolso",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 865,
+  "Autor": "Machado de Assis ",
+  "Livro": "Casa velha - Bolso",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 866,
+  "Autor": "Machado de Assis ",
+  "Livro": "Memorial de Aires",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 867,
+  "Autor": "Florbela Espanca",
+  "Livro": "A mensageira das violetas",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 868,
+  "Autor": "Edival Perrini",
+  "Livro": "Entre sem bater",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 869,
+  "Autor": "Júlio Verne",
+  "Livro": "Viagem ao centro da áfrica",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 870,
+  "Autor": "Lima Barreto",
+  "Livro": "Os bruzundangas",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 871,
+  "Autor": "Umberto Eco",
+  "Livro": "O nome da Rosa",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 872,
+  "Autor": "Erich Von Daniken",
+  "Livro": "Viagem a Kiribati",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 873,
+  "Autor": "Jorge Amado",
+  "Livro": "Dona Flor e seus dois Maridos",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 874,
+  "Autor": "Machado de Assis ",
+  "Livro": "Ressureição",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 875,
+  "Autor": "Oscar Wilde",
+  "Livro": "O retrato de Dorian Gray",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 876,
+  "Autor": "José de Alencar",
+  "Livro": "Crônicas Escolhidas",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 877,
+  "Autor": "Paulo Coelho ",
+  "Livro": "Na margem do rio piedra - eu sentei e chorei",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 878,
+  "Autor": "Drauzio Varella",
+  "Livro": "Estação Carandiru",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 879,
+  "Autor": "Paulo Bomfim",
+  "Livro": "Antologia Poética ",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 880,
+  "Autor": "Aluísio Azevedo",
+  "Livro": "O cortiço",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 881,
+  "Autor": "José de Alencar",
+  "Livro": "O Guarani",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 882,
+  "Autor": "Lima Barreto",
+  "Livro": "Triste fim de Policarpo Quaresma",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 883,
+  "Autor": "Lima Barreto",
+  "Livro": "Triste fim de Policarpo Quaresma",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 884,
+  "Autor": "Lima Barreto",
+  "Livro": "Triste fim de Policarpo Quaresma",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 885,
+  "Autor": "Celso Antunes",
+  "Livro": "Inteligências Múltiplas",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 886,
+  "Autor": "José de Alencar",
+  "Livro": "Til - O sertanejo",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 887,
+  "Autor": "José de Alencar",
+  "Livro": "Cinco Minutos - A viuvinha - a pata da gazela - sonhos d'ouro - encarnação",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 888,
+  "Autor": "José de Alencar",
+  "Livro": "Lucíola - Diva - Senhora",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 889,
+  "Autor": "José de Alencar",
+  "Livro": "O Gaúcho - O tronco do Ipê",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 890,
+  "Autor": "José de Alencar",
+  "Livro": "Alfarrábios - Guerra dos mascates",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 891,
+  "Autor": "José de Alencar",
+  "Livro": "As minas de prata",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 892,
+  "Autor": "José de Alencar",
+  "Livro": "O Guarani - Iracema - Ubirajara",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 893,
+  "Autor": "Aluísio Azevedo",
+  "Livro": "O mulato",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 894,
+  "Autor": "Machado de Assis ",
+  "Livro": "Helena",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 895,
+  "Autor": "Capistrano de Abreu",
+  "Livro": "Ensaios e estudos - 2 serie",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 896,
+  "Autor": "Capistrano de Abreu",
+  "Livro": "Ensaios e estudos - 1 serie",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 897,
+  "Autor": "Capistrano de Abreu",
+  "Livro": "O Descobrimento do Brasil",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 898,
+  "Autor": "Capistrano de Abreu",
+  "Livro": "Capítulos de História colonial",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 899,
+  "Autor": "Creusa Vaz de Souza",
+  "Livro": "Glória",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 900,
+  "Autor": "Creusa Vaz de Souza",
+  "Livro": "Glória",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 901,
+  "Autor": "Marie-Hélène Mathieu",
+  "Livro": "Nunca mais sozinhos - aventura de fé e luz",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 902,
+  "Autor": "Capistrano de Abreu",
+  "Livro": "Caminhos antigos e povoamento do Brasil",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 903,
+  "Autor": "Mário Corrêa Ferreira",
+  "Livro": "Viajar é preciso ",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 904,
+  "Autor": "Mário Corrêa Ferreira",
+  "Livro": "Viajar é preciso ",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 905,
+  "Autor": "Vínicius de Moraes",
+  "Livro": "O jornal de Antônio Maria",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 906,
+  "Autor": "Carlos Augusto Segato",
+  "Livro": "A fúria do mundo",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 907,
+  "Autor": "Paulo Coelho ",
+  "Livro": "O demÔnio e a srta. Prym",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 908,
+  "Autor": "Machado de Assis ",
+  "Livro": "Histórias sem data",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 909,
+  "Autor": "José Saramago",
+  "Livro": "O evangelho segundo Jesus Cristo",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 910,
+  "Autor": "José Lins do Rêgo",
+  "Livro": "Pureza - Pedra Bonita - Riacho doce",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 911,
+  "Autor": "José Lins do Rêgo",
+  "Livro": "Engenho - Doidinho - Banguê",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 912,
+  "Autor": "Thelma de Carvalho Guimarães",
+  "Livro": "Comunicação e linguagem",
+  "Setor": "f14",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 913,
+  "Autor": "Lúcia Pimentel Góes",
+  "Livro": "Érica e seus caminhos de Amor",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 914,
+  "Autor": "Morgana Gomes",
+  "Livro": "A vida e a obra de William Shakespeare",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 915,
+  "Autor": "Machado de Assis ",
+  "Livro": "Memórias Póstumas de Brás Cubas",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 916,
+  "Autor": "Machado de Assis ",
+  "Livro": "Papéis Avulsos 2",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 917,
+  "Autor": "Machado de Assis ",
+  "Livro": "Papéis Avulsos 1",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 918,
+  "Autor": "Machado de Assis ",
+  "Livro": "Memorial de Aires",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 919,
+  "Autor": "Machado de Assis ",
+  "Livro": "Páginas Recolhidas",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 920,
+  "Autor": "Machado de Assis ",
+  "Livro": "Quincas Borba",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 921,
+  "Autor": "Machado de Assis ",
+  "Livro": "Iaiá Garcia",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 922,
+  "Autor": "Machado de Assis ",
+  "Livro": "Histórias sem data",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 923,
+  "Autor": "Machado de Assis ",
+  "Livro": "Contos Fluminenses",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 924,
+  "Autor": "Machado de Assis ",
+  "Livro": "Várias Histórias",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 925,
+  "Autor": "Machado de Assis ",
+  "Livro": "Ressureição",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 926,
+  "Autor": "Machado de Assis ",
+  "Livro": "Esaú e Jacó",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 927,
+  "Autor": "José de Alencar",
+  "Livro": "Lucíola",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 928,
+  "Autor": "Graciliano Ramos",
+  "Livro": "Angústia",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 929,
+  "Autor": "Lima Barreto",
+  "Livro": "Triste fim de Policarpo Quaresma",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 930,
+  "Autor": "Bernardo Guimarães ",
+  "Livro": "O seminarista",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 931,
+  "Autor": "Lima Barreto",
+  "Livro": "Triste fim de Policarpo Quaresma",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 932,
+  "Autor": "Aluísio Azevedo",
+  "Livro": "O cortiço",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 933,
+  "Autor": "Machado de Assis ",
+  "Livro": "O alienista e outros contos",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 934,
+  "Autor": "Ribeiro Couto",
+  "Livro": "Cabocla",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 935,
+  "Autor": "Leornar Mlodinow",
+  "Livro": "O arco-íris de Feynman",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 936,
+  "Autor": "Rodrigo Penteado",
+  "Livro": "Corrupção - 18 contos",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 937,
+  "Autor": "Marie-Louise von Franz",
+  "Livro": "A sombra e o mal nos contos de fada",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 938,
+  "Autor": "Machado de Assis ",
+  "Livro": "Quincas Borba",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 939,
+  "Autor": "Jan Terlouw",
+  "Livro": "Ste desafios para ser rei",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 940,
+  "Autor": "Pedro Bandeira",
+  "Livro": "A marca de uma Lágrima",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 941,
+  "Autor": "Luiz Claudi Cardoso",
+  "Livro": "Molecagem",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 942,
+  "Autor": "Oscar Wilde",
+  "Livro": "O retrato de Dorian Gray",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 943,
+  "Autor": "Luiz Puntel",
+  "Livro": "Açúcar Amargo",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 944,
+  "Autor": "Cecilia Vasconcellos",
+  "Livro": "Mais importante que o papa",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 945,
+  "Autor": "Silvia Cintra Franco",
+  "Livro": "O desafio do pantanal",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 946,
+  "Autor": "Antônio de Pádua e Silva",
+  "Livro": "Guerra no pantanal",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 947,
+  "Autor": "Ganymédes José",
+  "Livro": "Oito minutos dentro de uma fotografia",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 948,
+  "Autor": "Voltaire",
+  "Livro": "Cândido - ou otimismo",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 949,
+  "Autor": "Zysman Neiman",
+  "Livro": "Era Verde? Ecossistemas brasileiros ameaçados",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 950,
+  "Autor": "Ganymédes José",
+  "Livro": "Adoráveis vigaristas",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 951,
+  "Autor": "Peter Kreeft",
+  "Livro": "Buscar sentido no sofrimento",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 952,
+  "Autor": "Margaret Edson",
+  "Livro": "Jornada de um poema w;t",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 953,
+  "Autor": "Paulo Sérgio do Carmo",
+  "Livro": "A ideologia do trabalho",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 954,
+  "Autor": "Padre A. Vieira",
+  "Livro": "Sermões - problemas sociais e políticos do Brasil",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 955,
+  "Autor": "…",
+  "Livro": "A luta dos deuses - os ídolos da opressão e a busca do Dus Libertador",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 956,
+  "Autor": "Ken Follet",
+  "Livro": "A chave de Rebecca",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 957,
+  "Autor": "Jorge Amado",
+  "Livro": "Capitães da areia",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 958,
+  "Autor": "Objetivo",
+  "Livro": "Os livros da Fuvest - João Cabral de Meto Neto; Mario de Andrade; Guimarães Rosa e Graciliano Ramos",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 959,
+  "Autor": "Graciliano Ramos",
+  "Livro": "Angústia",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 960,
+  "Autor": "Matthew Kelly",
+  "Livro": "Ritmo da vida",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 961,
+  "Autor": "Ernani e Nicola",
+  "Livro": "Verbos - Guia prático de emprego e conjugação",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 962,
+  "Autor": "Renate Jost de Moraes",
+  "Livro": "As chaves do inconsciente",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 963,
+  "Autor": "Hanna Wolff",
+  "Livro": "Jesus na perspectiuva da psicologia profunda",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 964,
+  "Autor": "Lucien Auger",
+  "Livro": "Ajudar-se a si mesmo - uma piscoterapia pela Razão",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 965,
+  "Autor": "Zedosreis Gomes Maia",
+  "Livro": "Ao longo da eternidade",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 966,
+  "Autor": "João Mohana",
+  "Livro": "Sofrer e amar (OBS: SEM CAPA)",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 967,
+  "Autor": "Roberto Shintashiki",
+  "Livro": "O sucesso é ser feliz",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 968,
+  "Autor": "Évelin Santos",
+  "Livro": "Ligue o foda-se e seja feliz",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 969,
+  "Autor": "Eça de Queirós",
+  "Livro": "O primo basílio",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 970,
+  "Autor": "…",
+  "Livro": "Cartas de Amor - frases e poesias de Amor",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 971,
+  "Autor": "Voltaire",
+  "Livro": "Cândido",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 972,
+  "Autor": "…",
+  "Livro": "O pensamento vivo de Chaplin",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 973,
+  "Autor": "Piero Gheddo",
+  "Livro": "Os povos da fome",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 974,
+  "Autor": "Aluísio Azevedo",
+  "Livro": "O cortiço",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 975,
+  "Livro": "NÓS E NOS - LIVRO COM DIVERSAS DENOMINAÇÕES E GRUPOS (CAPA VERDE SEM TEXTO)",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 976,
+  "Autor": "Tais Pereira de Freitas",
+  "Livro": "Bagaços",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 977,
+  "Autor": "Christian Jaco",
+  "Livro": "Filiae - o útlimo templo pagão",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 978,
+  "Autor": "E L James",
+  "Livro": "Cinquenta tons mais escuros",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 979,
+  "Autor": "E L James",
+  "Livro": "Cinquenta tons mais escuros",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 980,
+  "Autor": "E L James",
+  "Livro": "Teatros educativos - dramatizações osbre temas e datas importantes do ano",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 981,
+  "Autor": "Mauri L. Heerdt",
+  "Livro": "Como educar hoje?",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 982,
+  "Autor": "Júlio Emílio Braz",
+  "Livro": "Sol ardente",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 983,
+  "Autor": "Wladimir Pomar",
+  "Livro": "China - O dragão do século XXI",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 984,
+  "Autor": "Benedito Prezia",
+  "Livro": "Esta terra tinha dono",
+  "Setor": "f15",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 985,
+  "Autor": "Álvares de Azevedo",
+  "Livro": "Poesia",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 986,
+  "Autor": "Silva Alvarenga",
+  "Livro": "Poesia",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 987,
+  "Autor": "Vicente de Carvalho",
+  "Livro": "Poesia",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 988,
+  "Autor": "Euclides da Cunha",
+  "Livro": "Os sertões",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 989,
+  "Autor": "…",
+  "Livro": "Bethoven - string quartet (cifra ou partitura)",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 990,
+  "Autor": "Eça de Queirós",
+  "Livro": "O primo basílio",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 991,
+  "Autor": "Vinicius de Moraes",
+  "Livro": "O melhor de Vinicius de Moraes",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 992,
+  "Autor": "Jean-Pierre Laurant",
+  "Livro": "O esoterismo",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 993,
+  "Autor": "Albert Camus",
+  "Livro": "A peste",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 994,
+  "Autor": "Jonathan Swift",
+  "Livro": "As viagens de Gulliver",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 995,
+  "Livro": "Mozart - Horn Concerto (cifra ou partitura)",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 996,
+  "Livro": "Biblioteca de seleções - 1: O terceiro gêmeo, garota do interior, a arte de ocultar, miragem.",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 997,
+  "Autor": "Padre Agostinho de Montefeltro",
+  "Livro": "Sermões (capa vermelha e preta sem  texto)",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 998,
+  "Autor": "Jostein Gaarder",
+  "Livro": "Através do Espelho",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 999,
+  "Autor": "Hernãni Donato",
+  "Livro": "Novas aventuras de Pedro Malasartes",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1000,
+  "Autor": "Gonçalves Dias",
+  "Livro": "Poesia",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1001,
+  "Autor": "Gonçalves Dias",
+  "Livro": "Poesia",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1002,
+  "Autor": "Castro Alves",
+  "Livro": "Poesia",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1003,
+  "Autor": "Graciliano Ramos",
+  "Livro": "Vidas secas",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1004,
+  "Autor": "José Mauro de Vasconcelos",
+  "Livro": "O meu pé de laranja lima",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1005,
+  "Autor": "Joaquim Manuel de Macedo",
+  "Livro": "A moreninha",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1006,
+  "Autor": "Marion Zimmer Bradley",
+  "Livro": "A filha da noite",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1007,
+  "Autor": "Padre Charbonneau",
+  "Livro": "Pais e filhos - limitação dos nascimentos",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1008,
+  "Autor": "Victor Hugo",
+  "Livro": "A corcunda de notre dame",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1009,
+  "Autor": "Camilo Castelo Branco",
+  "Livro": "Doze casamentos felizes",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1010,
+  "Autor": "Hamilton Ribeiro",
+  "Livro": "O côsto da guerra",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1011,
+  "Autor": "Eleanor H. Porter",
+  "Livro": "Pollyanna",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1012,
+  "Autor": "Gilberto Freyre",
+  "Livro": "Dona Sinhá e o filho padre",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1013,
+  "Autor": "José de Alencar",
+  "Livro": "Lucíola",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1014,
+  "Autor": "Silvio Rabello",
+  "Livro": "A representação do tempo na Greança",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1015,
+  "Autor": "Chíco Alencar",
+  "Livro": "A terra de Rute - o alimento da humanidade",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1016,
+  "Autor": "Rainer Maria Rilke",
+  "Livro": "Cartas A um jovem poeta - A canção de amor e de morte do porta-estandarte Cristóvão Rilke",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1017,
+  "Autor": "Fernando Sabino",
+  "Livro": "A mulher do vizinho",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1018,
+  "Autor": "Irene Coimbra",
+  "Livro": "Antologia porto e virgula",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1019,
+  "Autor": "…",
+  "Livro": "A oração dos pobres: relatos de um peregrino russo",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1020,
+  "Autor": "Adrienne Villela",
+  "Livro": "Os iluminados",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1021,
+  "Autor": "Augusto Roa Bastos",
+  "Livro": "Eu o supremo",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1022,
+  "Autor": "Ernest Hemingway",
+  "Livro": "O velho e o mar",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1023,
+  "Autor": "Bernardo Guimarães ",
+  "Livro": "A escrava Isaura",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1024,
+  "Autor": "Luiz Puntel",
+  "Livro": "Açúcar Amargo",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1025,
+  "Autor": "Carlos Drummond de Andrade",
+  "Livro": "Boca de Luar",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1026,
+  "Autor": "Chíco Alencar",
+  "Livro": "Os caminhos da felicidade - a pedagogia do mestre Jesus",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1027,
+  "Autor": "Chíco Alencar",
+  "Livro": "Noé, a nova criação - sabedoria e ecologia",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1028,
+  "Autor": "Chíco Alencar",
+  "Livro": "Iluminação ou alucinação. Uma conversa de Vida",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1029,
+  "Autor": "Erris Peters",
+  "Livro": "O aprendiz do herege - uma aventuda do irmão Gaofael",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1030,
+  "Autor": "Luis Fernando",
+  "Livro": "A mentiras que os homens contam",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1031,
+  "Autor": "Cardeal Wiseman",
+  "Livro": "Fabíola",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1032,
+  "Autor": "John Sck",
+  "Livro": "A conspiração Fransciscana",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1033,
+  "Autor": "Alceu Amoroso Lima",
+  "Livro": "Memórias improvisadas",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1034,
+  "Autor": "Bocage",
+  "Livro": "Literatura comentada: Bocage",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1035,
+  "Autor": "Machado de Assis ",
+  "Livro": "Literatura comentada: Machado de Assis",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1036,
+  "Autor": "Lindomar Nascimento",
+  "Livro": "Ribeirinho",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1037,
+  "Autor": "Fernando Morais",
+  "Livro": "Olga - A vida de Olga Benario Prestes, judia comunista entregue a Hitler pelo governo Vargas",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1038,
+  "Autor": "Hosmany Ramos",
+  "Livro": "Pavilhão 9 - Paixão e morte no Carandiru",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1039,
+  "Autor": "Ernest Hemingway",
+  "Livro": "Verdade ao amanhecer",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1040,
+  "Autor": "Umberto Eco ",
+  "Livro": "Baudolino",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1041,
+  "Autor": "Noah Gordon",
+  "Livro": "O último Judeu - uma história de terror na inquisição",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1042,
+  "Autor": "Anne Pice",
+  "Livro": "O servo dos Ossos",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1043,
+  "Autor": "John Case",
+  "Livro": "O oitavo Dia",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1044,
+  "Autor": "Andrew M. Greeley",
+  "Livro": "Os pecados de um padre - romance",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1045,
+  "Autor": "A. B. Yehoshua",
+  "Livro": "Viagem ao fim do milênio - romance da idade Média",
+  "Setor": "f16",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1046,
+  "Autor": "José Luis Martínez",
+  "Livro": "Vivendo em comunidade - temas de psicologia e vida religiosa",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1047,
+  "Autor": "Antõnio Soares Amora",
+  "Livro": "O romantistmo - a literatura brasileira",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1048,
+  "Autor": "Marlies K. Danziger",
+  "Livro": "Introdução ao estudo crítico da literatura",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1049,
+  "Autor": "João Pacheco",
+  "Livro": "O realismo - a literatura brasileira",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1050,
+  "Autor": "Jo Petty",
+  "Livro": "Pensamento de ouro",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1051,
+  "Autor": "Readers Digest",
+  "Livro": "Seleções de livros: Nicholas sparks, Rubert Crais. Juditj Jenry Wall, Tony Hillerman",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1052,
+  "Autor": "G. Flucco",
+  "Livro": "Frich Froch Imbosca.",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1053,
+  "Autor": "Renato Abbo",
+  "Livro": "In poesia",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1054,
+  "Autor": "Harold Beaver",
+  "Livro": "Ensaios críticos de literatura",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1055,
+  "Autor": "Douglas Tufano",
+  "Livro": "Estudos de língua e literatura",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1056,
+  "Autor": "Luís Augusto Cassas",
+  "Livro": "República dos becos",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1057,
+  "Autor": "Heloisa Toller Gomes",
+  "Livro": "O negro e o romantismo brasileiro",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1058,
+  "Autor": "J. Milton Benemann",
+  "Livro": "Estudo dirigido de português - 1 - segundo grau",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1059,
+  "Autor": "…",
+  "Livro": "Língua, discurso, sociedade",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1060,
+  "Autor": "Padre Antônio Vieira",
+  "Livro": "O jomento, nosso irmão",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1061,
+  "Autor": "Antoine de Saint-Exupéry",
+  "Livro": "Felicidade, amor e amizade: A sabedoria na obra de Antoine de Saint-Exupéry",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1062,
+  "Autor": "Martin Fierro",
+  "Livro": "Las grandes de la poesia Guacha",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1063,
+  "Autor": "Alcy Cheuiche",
+  "Livro": "A guerra dos farrapos",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1064,
+  "Autor": "Nelson Rodrigues",
+  "Livro": "Nelson Rodrigues: O melhor do Romance, contos e crônicas",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1065,
+  "Autor": "Mário de Andrade",
+  "Livro": "Literatura comentada: Mário de Andrade",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1066,
+  "Autor": "Joseph Klatzmann",
+  "Livro": "Caminhar para ficar em forma",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1067,
+  "Autor": "TonI Carré",
+  "Livro": "Poetas do Brasil 2000",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1068,
+  "Autor": "Alpohonsus de Guimaraens",
+  "Livro": "Cantos de amor; salmos de prece - poemas escolhidos",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1069,
+  "Autor": "Fernando Sabino",
+  "Livro": "Literatura comentada: Fernando Sabino",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1070,
+  "Autor": "Luiz Carlos Garcia",
+  "Livro": "Pedro e Dona Zica",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1071,
+  "Autor": "Renato Abbo",
+  "Livro": "In poesia",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1072,
+  "Autor": "Douglas Tufano",
+  "Livro": "Estudos de língua e literatura",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1073,
+  "Autor": "Antônio Soares Amora",
+  "Livro": "História da literatura brasileira",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1074,
+  "Autor": "Bertolt Brecht",
+  "Livro": "Teatro completo",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1075,
+  "Autor": "Menalton Braff",
+  "Livro": "A sombra do cipreste - contos",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1076,
+  "Autor": "Heitor Megale",
+  "Livro": "Literatura e linguagem",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1077,
+  "Autor": "Graciliano Ramos",
+  "Livro": "Literatura comentada: Graciliano Ramos",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1078,
+  "Autor": "Douglas Tufano",
+  "Livro": "Estudos de língua e literatura",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1079,
+  "Autor": "Ferreira Gullar",
+  "Livro": "Vanguarda e subdesenvolvimento - ensaios sobre arte",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1080,
+  "Autor": "Aldous Huxley",
+  "Livro": "As portas da percepção - Céu e Inferno",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1081,
+  "Autor": "Casparreto",
+  "Livro": "Calunga - um desejo de prosa",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1082,
+  "Autor": "Antônio Soares Amora",
+  "Livro": "História da literatura brasileira",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1083,
+  "Autor": "Jennie Guindon",
+  "Livro": "O desafio dos vinte anos",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1084,
+  "Autor": "Ediomar Márcio Madureira",
+  "Livro": "Venci! Sou excepcional",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1085,
+  "Autor": "Antônio Candido",
+  "Livro": "Do romantismo ao simbolismo",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1086,
+  "Autor": "Faraco e Moura",
+  "Livro": "Língua e literatu - 2 - 2º grua",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1087,
+  "Autor": "Douglas Tufano",
+  "Livro": "Estudos de língua e literatura",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1088,
+  "Autor": "Douglas Tufano",
+  "Livro": "Estudos de língua e literatura",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1089,
+  "Autor": "Douglas Tufano",
+  "Livro": "Estudos de língua e literatura -2",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1090,
+  "Autor": "Laurence Hallewell",
+  "Livro": "O livro no Brasil (sua história)",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1091,
+  "Autor": "Ademir Moreira",
+  "Livro": "Português e literatura visão atual",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1092,
+  "Autor": "Raya Junior",
+  "Livro": "Parada obrigatória - Crônicas",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1093,
+  "Autor": "João Domingues Maia",
+  "Livro": "Língua, Literatura e redação",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1094,
+  "Autor": "C. Baxter Kruger",
+  "Livro": "De volta à cabana",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1095,
+  "Autor": "Syd Field",
+  "Livro": "Os exercícios do roteirista - O mesmo autor de manual do roteiro",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1096,
+  "Autor": "Roberto Lima Netto",
+  "Livro": "O pequeno Príncipe para gente grande",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1097,
+  "Autor": "Cesário Horta",
+  "Livro": "Gaveta de sapateiro",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1098,
+  "Autor": "Adelia Quêd",
+  "Livro": "Há versos no meu existir",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1099,
+  "Autor": "Flávio Moreira da Costa",
+  "Livro": "Três - casos policias de Mário Livramento",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1100,
+  "Autor": "A. G. Roemmers",
+  "Livro": "O retorno do jovem príncipe",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1101,
+  "Autor": "Afrânio Coutinho",
+  "Livro": "A literatura no Brasil - Barroco, Neoclassicismo, arcadismo",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1102,
+  "Autor": "Rubem Alves",
+  "Livro": "Se eu pudesse viver minha vida novamente…",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1103,
+  "Autor": "Monteiro Lobato",
+  "Livro": "O minotauro",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1104,
+  "Autor": "Hidebrando Campestrini",
+  "Livro": "Literatura Brasileira com textos e testes",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1105,
+  "Autor": "William P. Young",
+  "Livro": "A travessia",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1106,
+  "Autor": "José Arbex JR.",
+  "Livro": "Narcotráfico - um jogo de poder nas Américas",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1107,
+  "Autor": "Elda Randoli Marino",
+  "Livro": "Estudos de português para o 2º grau - 1 volume",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1108,
+  "Autor": "Júlio Emílio Braz",
+  "Livro": "Enquanto houver vida viverei",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1109,
+  "Autor": "Mia Couto",
+  "Livro": "A chuva pasmada",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 1110,
+  "Autor": "Dan Brown",
+  "Livro": "O código da Vinci - edição especial ilustrada",
+  "Setor": "g4",
+  "Área": "Literatura"
+ },
+ {
+  "Setor": "g4",
+  "Área": "Literatura"
+ }
+
 
 ];
 
@@ -4600,7 +7790,7 @@ function exibirLivros(listaLivros) {
     const tabela = document.getElementById("lista");
 
     tabela.innerHTML = `
-        <tr style="text-align": "center"; font-weight: none; text->
+        <tr style="text-align,": "center"; font-weight: none; text->
             <th>ID</th>
             <th>Autor</th>
             <th>Livro</th>
@@ -4643,24 +7833,99 @@ function buscarLivros() {
         exibirLivros(resultado);
 }
 
-// botão pesquisar
-document.getElementById("search-button").addEventListener("click", buscarLivros);
+function contarAutores(lista = catalogo) {
 
-// pesquisar enquanto digita
-document.getElementById("search").addEventListener("input", buscarLivros);
-        exibirLivros(catalogo);
+    const autores = new Set();
+
+    lista.forEach(livro => {
+
+        if (livro.Autor) {
+            autores.add(livro.Autor.trim());
+        }
+
+    });
+
+    return autores.size;
+}
+
+function animarContador(id, valor) {
+
+    const elemento = document.getElementById(id);
+
+    if (!elemento) return;
+
+    let atual = 0;
+
+    const duracao = 1200;
+    const fps = 60;
+
+    const incremento = Math.max(1, Math.ceil(valor / (duracao / (1000 / fps))));
+
+    const intervalo = setInterval(() => {
+
+        atual += incremento;
+
+        if (atual >= valor) {
+            atual = valor;
+            clearInterval(intervalo);
+        }
+
+        elemento.textContent = atual.toLocaleString("pt-BR");
+
+    }, 1000 / fps);
+
+}
+
+
+// botão pesquisar
+// document.getElementById("search-button").addEventListener("click", buscarLivros);
+
+// // pesquisar enquanto digita
+// document.getElementById("search").addEventListener("input", buscarLivros);
+//         exibirLivros(catalogo);
+
+// window.addEventListener("DOMContentLoaded", () => {
+
+//     document
+//         .getElementById("search-button")
+//         .addEventListener("click", buscarLivros);
+
+//     document
+//         .getElementById("search")
+//         .addEventListener("input", buscarLivros);
+
+//     exibirLivros(catalogo.catalogo);
+
+// });
 
 window.addEventListener("DOMContentLoaded", () => {
 
-    document
-        .getElementById("search-button")
-        .addEventListener("click", buscarLivros);
+    // Página catálogo
+    const pesquisa = document.getElementById("search");
+    const botao = document.getElementById("search-button");
 
-    document
-        .getElementById("search")
-        .addEventListener("input", buscarLivros);
+    if (pesquisa && botao) {
 
-    exibirLivros(catalogo.catalogo);
+        exibirLivros(catalogo);
+
+        pesquisa.addEventListener("input", buscarLivros);
+        botao.addEventListener("click", buscarLivros);
+
+    }
+
+    // Página inicial
+    if (document.getElementById("contadorLivros")) {
+
+        animarContador(
+            "contadorLivros",
+            catalogo.length
+        );
+
+        animarContador(
+            "contadorAutores",
+            contarAutores()
+        );
+
+    }
 
 });
-

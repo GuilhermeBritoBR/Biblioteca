@@ -7,101 +7,87 @@
         <link rel="shortcut icon" href="src/images/logo.png" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
-     <header>
-                        <!--seção de botoes-->
-                        <input id="search" style=" font-size: 20px; width: 290px; height: 40px; border-radius: 12px; padding: 10px;" type="search" id="search" placeholder="Buscar livro, autor ou área"/>
-                        <div id="search-button"></div>
-                    
-        </header>
+  
         
-    <body>
-        <div id="banner" style=" display:flex;  padding: 10px;  background-color: #F8F4E3; justify-content: center;">
-            <div style=" 
-                border: 4px solid transparent;
-    border-radius: 8px;
-    display: inline-block;
-            margin-right: 60px;
-    background:
-        linear-gradient(#D4AF37, #F4E4A6) padding-box,
-        linear-gradient(
-            45deg,
-            #6b4f00,
-            #d4af37,
-            #fff2a8,
-            #d4af37,    
-            #6b4f00
-        ) border-box; height: 303px;
-                padding: 5px; border-radius: 5px; background-color: gold; width: 275px; display: flex; justify-content: center;" class="quadromadalena">
-                <img src="./src/images/madalena.png" width="275px" height="303px"/>
-            </div>  
-            <div style=" 
-                border: 4px solid transparent;
-    border-radius: 8px; 
-    display: inline-block;
-    background:
-        linear-gradient(#D4AF37, #F4E4A6) padding-box,
-        linear-gradient(
-            45deg,
-            #6b4f00,
-            #d4af37,
-            #fff2a8,
-            #d4af37,
-            #6b4f00
-        ) border-box; height: 303px;
-                padding: 5px; border-radius: 5px; background-color: gold; width: 245px; display: flex; justify-content: center; align-items: center;" class="quadromadalena">
-                <img src="./src/images/bakhita.png" width="100%"/>
-            </div>
-<div style=" 
-                border: 4px solid transparent;
-    border-radius: 8px; 
-    background:
-        linear-gradient(#D4AF37, #F4E4A6) padding-box,
-        linear-gradient(
-            45deg,
-            #6b4f00,
-            #d4af37,
-            #fff2a8,
-            #d4af37,    
-            #6b4f00
-        ) border-box;
-        margin-right: 60px;
-        margin-left: 60px;
-                padding: 5px; border-radius: 5px; width: 468px; height: 300px; " class="quadromadalena">        
-                
-            <img src="src/images/canossianos.png"  height="300px"/>
-            
-            </div>
+    <body style="background-color: #F8F4E3;">
+          <header>
+    <!-- seção de busca -->
+         <div id="search-button"></div>
 
-            <div style=" 
-                border: 4px solid transparent;
-    border-radius: 8px;
-    display: inline-block;
-            margin-right: 60px;
-    background:
-        linear-gradient(#D4AF37, #F4E4A6) padding-box,
-        linear-gradient(
-            45deg,
-            #6b4f00,
-            #d4af37,
-            #fff2a8,
-            #d4af37,    
-            #6b4f00
-        ) border-box;
-                padding: 5px; border-radius: 5px; background-color: gold; width: 203px; display: flex; justify-content: center;" class="quadromadalena">
-                <img src="./src/images/5c1e9fc474e5d7c37460e42c0a229be0.png" width="203px" height="300px"/>
-            </div> 
+         <nav class="menu">
+        <a href="index.html">Início</a>
+        <a href="catalogo.html">Catalogo</a>
+        <a href="arquivos.html">Arquivos</a>
+        <a href="sobre.html">Sobre</a>
 
 
-       </div>     
+    </nav>
+    
 
+    
 
-       <div id="lista-div">
-        <table id="lista"></table>
-        <br>
+</header>
+       
+            <div id="banner">
+    <div class="quadro quadro-madalena">
+        <img src="./src/images/madalena.png" alt="Madalena">
+    </div>
+
+    <div class="quadro quadro-bakhita">
+        <img src="./src/images/bakhita.png" alt="Bakhita">
+    </div>
+
+    <div class="quadro quadro-canossianos">
+        <img src="./src/images/canossianos.png" alt="Canossianos">
+    </div>
+
+    <div class="quadro quadro-livro">
+        <img src="./src/images/5c1e9fc474e5d7c37460e42c0a229be0.png" alt="Livro">
+    </div>
+
+</div>
+<div id="infodiv">
+
+    <h1>Biblioteca Seminário Canossiano</h1>
+    <p class="descricao">
+        Acervo dedicado à formação intelectual e espiritual,
+        reunindo obras de Filosofia, Teologia, História, Literatura
+        e diversas áreas do conhecimento.
+    </p>
+
+    <div class="estatisticas">
+
+        <div class="card-info">
+            <span id="contadorLivros" class="numero">0</span>
+            <span class="texto">Livros cadastrados</span>
         </div>
+
+        <div class="card-info">
+            <span id="contadorAutores" class="numero">0</span>
+            <span class="texto">Autores</span>
+        </div>
+
+    </div>
+
+    <h2 class="frase">
+        Deus abençoe vossos estudos!
+    </h2>
+
+</div>
+
+
+      
         <script src="script.js">
         </script>
         <style>
+            table th {
+    height: 0;
+}
+
+table th {
+    color: #fff;
+    border: 0px solid #000;
+}
             @media screen and (max-width: 768px) {
 
     /* Oculta o banner inteiro */
