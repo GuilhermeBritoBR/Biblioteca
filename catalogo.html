@@ -118,12 +118,49 @@
 
 
        <div id="lista-div">
-        <table  id="lista"></table>
-        <br>
-        </div>
+
+    <div class="tabela-container">
+        <table id="lista"></table>
+    </div>
+
+</div>
         <script src="script.js">
         </script>
         <style>
+            #lista-div{
+    width:100%;
+    display:flex;
+    justify-content:center;
+    padding:25px;
+    box-sizing:border-box;
+}
+
+.tabela-container{
+    width:100%;
+    max-width:2500px;
+    overflow-x:auto;
+    border-radius:15px;
+}
+
+#lista{
+    width:100%;
+    min-width:700px;
+    border-collapse:collapse;
+    background:#fff;
+}
+
+#lista th,
+#lista td{
+    padding:12px 15px;
+    white-space:nowrap;
+}
+
+#lista th{
+    background:#722F37;
+    color:#fff;
+    position:sticky;
+    top:0;
+}
             table th {
     height: 0;
 }
@@ -132,47 +169,75 @@ table th {
     color: #fff;
     border: 0px solid #000;
 }
-            @media screen and (max-width: 768px) {
+            @media (max-width:768px){
 
-    /* Oculta o banner inteiro */
-    #banner{
-        display: none !important;
-    }
+body{
+    overflow-x:hidden;
+}
 
-    /* Barra de pesquisa */
-    header{
-        width: 100%;
-        padding: 10px;
-        text-align: center;
-        box-sizing: border-box;
-    }
+/* Header */
 
-    #search{
-        width: 95% !important;
-        max-width: 500px;
-        height: 45px !important;
-        font-size: 18px !important;
-        box-sizing: border-box;
-    }
+header{
+    flex-direction:column;
+    align-items:center;
+    gap:15px;
+    padding:15px;
+}
 
-    /* Resultados */
-    #lista-div{
-        width: 100%;
-        padding: 10px;
-        box-sizing: border-box;
-    }
+.menu{
+    width:100%;
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:8px;
+    margin:0;
+}
 
-    #lista{
-        width: 100%;
-        font-size: 14px;
-    }
-    table{
-        border: 0px solid #000000;
-    }
-    table th{
-        border: 0px solid #000000;
-        border-bottom: 1px solid #000000;
-    }
+.menu a{
+    font-size:16px;
+    padding:8px 12px;
+}
+
+#search{
+    width:100% !important;
+    max-width:none;
+    box-sizing:border-box;
+}
+
+/* Tabela */
+
+#lista-div{
+    padding:10px;
+}
+
+.tabela-container{
+    overflow-x:auto;
+    -webkit-overflow-scrolling:touch;
+    border-radius:12px;
+}
+
+#lista{
+    min-width:650px;
+    font-size:14px;
+}
+
+#lista th,
+#lista td{
+    padding:10px;
+}
+
+/* Esconde a barra horizontal */
+
+.tabela-container::-webkit-scrollbar{
+    height:6px;
+}
+
+.tabela-container::-webkit-scrollbar-thumb{
+    background:#999;
+    border-radius:10px;
+}
+
+
 }
         </style>
     </body>
