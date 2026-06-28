@@ -1,246 +1,201 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
 
-<html>
-    <head>
-        <meta charset="UTF-8">  
-        <title>Biblioteca</title>
-        <link rel="stylesheet" href="styles.css" />
-        <link rel="shortcut icon" href="src/images/logo.png" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
-  
-        
-    <body style="background-color: #F8F4E3;">
-          <header>
-    <!-- seção de busca -->
-         <div id="search-button"></div>
+<head>
+    <meta charset="UTF-8">
+    <title>Biblioteca</title>
 
-         <nav class="menu">
-        <a href="index.html">Início</a>
-        <a href="catalogo.html">Catalogo</a>
-        <a href="arquivos.html">Arquivos</a>
-        <a href="sobre.html">Sobre</a>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="src/images/logo.png">
 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 
-    </nav>
-    <input
-        id="search"
-        type="search"
-        placeholder="Buscar livro, autor ou área"
-        style="font-size:20px; width:290px; height:40px; border-radius:12px; padding:10px;"
-    >
+<body>
 
-    
+    <header>
 
-</header>
-        <!-- 
-        <div id="banner" style=" display:flex;  padding: 10px;  background-color: #F8F4E3; justify-content: center;">
-            <div style=" 
-                border: 4px solid transparent;
-    border-radius: 8px;
-    display: inline-block;
-            margin-right: 60px;
-    background:
-        linear-gradient(#D4AF37, #F4E4A6) padding-box,
-        linear-gradient(
-            45deg,
-            #6b4f00,
-            #d4af37,
-            #fff2a8,
-            #d4af37,    
-            #6b4f00
-        ) border-box; height: 303px;
-                padding: 5px; border-radius: 5px; background-color: gold; width: 275px; display: flex; justify-content: center;" class="quadromadalena">
-                <img src="./src/images/madalena.png" width="275px" height="303px"/>
-            </div>  
-            <div style=" 
-                border: 4px solid transparent;
-    border-radius: 8px; 
-    display: inline-block;
-    background:
-        linear-gradient(#D4AF37, #F4E4A6) padding-box,
-        linear-gradient(
-            45deg,
-            #6b4f00,
-            #d4af37,
-            #fff2a8,
-            #d4af37,
-            #6b4f00
-        ) border-box; height: 303px;
-                padding: 5px; border-radius: 5px; background-color: gold; width: 245px; display: flex; justify-content: center; align-items: center;" class="quadromadalena">
-                <img src="./src/images/bakhita.png" width="100%"/>
-            </div>
-            
-<div style=" 
-                border: 4px solid transparent;
-    border-radius: 8px; 
-    background:
-        linear-gradient(#D4AF37, #F4E4A6) padding-box,
-        linear-gradient(
-            45deg,
-            #6b4f00,
-            #d4af37,
-            #fff2a8,
-            #d4af37,    
-            #6b4f00
-        ) border-box;
-        margin-right: 60px;
-        margin-left: 60px;
-                padding: 5px; border-radius: 5px; width: 468px; height: 300px; " class="quadromadalena">        
-                
-            <img src="src/images/canossianos.png"  height="300px"/>
-            
-            </div>
+        <nav class="menu">
+            <a href="index.html">Início</a>
+            <a href="catalogo.html">Catálogo</a>
+            <a href="arquivos.html">Arquivos</a>
+            <a href="sobre.html">Sobre</a>
+        </nav>
 
-            <div style=" 
-                border: 4px solid transparent;
-    border-radius: 8px;
-    display: inline-block;
-            margin-right: 60px;
-    background:
-        linear-gradient(#D4AF37, #F4E4A6) padding-box,
-        linear-gradient(
-            45deg,
-            #6b4f00,
-            #d4af37,
-            #fff2a8,
-            #d4af37,    
-            #6b4f00
-        ) border-box;
-                padding: 5px; border-radius: 5px; background-color: gold; width: 203px; display: flex; justify-content: center;" class="quadromadalena">
-                <img src="./src/images/5c1e9fc474e5d7c37460e42c0a229be0.png" width="203px" height="300px"/>
-            </div> 
- -->
-            
+        <input
+            id="search"
+            type="search"
+            placeholder="Buscar livro, autor ou área">
 
-</div>
+        <div id="search-button"></div>
 
-       </div>     
+    </header>
+    <style>
+        /* Área da tabela */
 
-
-       <div id="lista-div">
-
-    <div class="tabela-container">
-        <table id="lista"></table>
-    </div>
-
-</div>
-        <script src="script.js">
-        </script>
-        <style>
-            #lista-div{
+#lista-div{
     width:100%;
     display:flex;
     justify-content:center;
-    padding:25px;
-    box-sizing:border-box;
+    padding:25px 0;
 }
 
 .tabela-container{
     width:100%;
-    max-width:2500px;
-    overflow-x:auto;
-    border-radius:15px;
+    max-width:1800px;
+       
+
 }
 
 #lista{
     width:100%;
-    min-width:700px;
     border-collapse:collapse;
+    table-layout:fixed;
     background:#fff;
+    border-radius:15px;
+     border: solid 1px #000000;
+    overflow:hidden;
 }
 
-#lista th,
-#lista td{
-    padding:12px 15px;
-    white-space:nowrap;
-}
+/* Cabeçalho */
 
 #lista th{
     background:#722F37;
     color:#fff;
-    position:sticky;
-    top:0;
-}
-            table th {
-    height: 0;
+    padding:10px;
+    text-align:left;
 }
 
-table th {
-    color: #fff;
-    border: 0px solid #000;
-}
-            @media (max-width:768px){
+/* Linhas */
 
-body{
-    overflow-x:hidden;
-}
+#lista td{
+    padding:8px;
+    border-bottom:1px solid #ddd;
 
-/* Header */
-
-header{
-    flex-direction:column;
-    align-items:center;
-    gap:15px;
-    padding:15px;
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
 }
 
-.menu{
-    width:100%;
-    display:flex;
-    justify-content:center;
-    flex-wrap:wrap;
-    gap:8px;
-    margin:0;
+/* Largura das colunas */
+
+#lista th:nth-child(1),
+#lista td:nth-child(1){
+    width:2%;
 }
 
-.menu a{
-    font-size:16px;
-    padding:8px 12px;
+#lista th:nth-child(2),
+#lista td:nth-child(2){
+    width:10%;
 }
+
+#lista th:nth-child(3),
+#lista td:nth-child(3){
+    width:45%;
+}
+
+#lista th:nth-child(4),
+#lista td:nth-child(4){
+    width:3%;
+    text-align:center;
+}
+
+#lista th:nth-child(5),
+#lista td:nth-child(5){
+    width:5%;
+}
+
+/* Pesquisa */
 
 #search{
-    width:100% !important;
-    max-width:none;
-    box-sizing:border-box;
-}
-
-/* Tabela */
-
-#lista-div{
-    padding:10px;
-}
-
-.tabela-container{
-    overflow-x:auto;
-    -webkit-overflow-scrolling:touch;
-    border-radius:12px;
-}
-
-#lista{
-    min-width:650px;
-    font-size:14px;
-}
-
-#lista th,
-#lista td{
-    padding:10px;
-}
-
-/* Esconde a barra horizontal */
-
-.tabela-container::-webkit-scrollbar{
-    height:6px;
-}
-
-.tabela-container::-webkit-scrollbar-thumb{
-    background:#999;
+    width:290px;
+    height:42px;
+    padding:0 12px;
     border-radius:10px;
+    border:none;
+    font-size:18px;
 }
 
+/* Responsividade */
 
+@media (max-width:768px){
+
+    header{
+        flex-direction:column;
+        gap:15px;
+    }
+
+    .menu{
+        justify-content:center;
+        flex-wrap:wrap;
+        gap:8px;
+        margin:0;
+    }
+
+    #search{
+        width:95%;
+    }
+
+    .tabela-container{
+        width:95%;
+    }
+
+    #lista{
+        font-size:12px;
+    }
+
+    #lista th,
+    #lista td{
+        padding:5px 4px;
+    }
+
+    #lista th:nth-child(1),
+    #lista td:nth-child(1){
+        width:8%;
+    }
+
+    #lista th:nth-child(2),
+    #lista td:nth-child(2){
+        width:22%;
+    }
+
+    #lista th:nth-child(3),
+    #lista td:nth-child(3){
+        width:38%;
+    }
+
+    #lista th:nth-child(4),
+    #lista td:nth-child(4){
+        width:6%;
+    }
+
+    #lista th:nth-child(5),
+    #lista td:nth-child(5){
+        width:18%;
+    }
 }
-        </style>
-    </body>
-    <foooter>   
-    </foooter>
+    </style>
+
+    <main>
+
+        <div id="lista-div">
+
+            <div class="tabela-container">
+
+                <table id="lista"></table>
+
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer>
+
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
 </html>
