@@ -11,7 +11,6 @@ header{
     background:#722F37;
     display:flex;
     align-items:center;
-    padding:15px 25px;
 }
 
 .menu{
@@ -50,12 +49,15 @@ header{
     background-color: #30241F;
 }
 
-.search{
-    width: 260px;
-    height: 45px;
-    
-    
+#search{
+    width:240px;
+    height:32px;
+    border-radius:5px;
+    padding: 2px;
+    border:none;
+    font-size:18px;
 }
+
 
 
 
