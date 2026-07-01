@@ -17331,10 +17331,6 @@ const catalogo = [
 ];
 
 
-
-
-   
-
 function exibirLivros(listaLivros) {
     const tabela = document.getElementById("lista");
 
@@ -17372,11 +17368,11 @@ function buscarLivros() {
         .trim();
 
     const resultado = catalogo.filter(livro =>
-        String(livro.ID).includes(termo) ||
-        (livro.Autor || "").toLowerCase().includes(termo) ||
-        (livro.Livro || "").toLowerCase().includes(termo) ||
-        (livro.Setor || "").toLowerCase().includes(termo) ||
-        (livro["Área"] || "").toLowerCase().includes(termo)
+   String(livro.ID ?? "").includes(termo) ||
+    String(livro.Autor ?? "").toLowerCase().includes(termo) ||
+    String(livro.Livro ?? "").toLowerCase().includes(termo) ||
+    String(livro.Setor ?? "").toLowerCase().includes(termo) ||
+    String(livro["Área"] ?? "").toLowerCase().includes(termo)
     );
 
         exibirLivros(resultado);
