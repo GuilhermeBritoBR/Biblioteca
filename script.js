@@ -1,5 +1,6 @@
 const catalogo = [
  
+
  {
   "ID": 1,
   "Autor": "Platão",
@@ -14573,115 +14574,2757 @@ const catalogo = [
   "Área": "Diversos"
  },
  {
+  "ID": 2085,
   "Autor": "Teresio Bosco",
   "Livro": "Edith Stein",
-  "Setor": "z5"
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2086,
   "Autor": "Thomas Merton",
-  "Livro": "Homem algum é uma ilha"
+  "Livro": "Homem algum é uma ilha",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2087,
   "Autor": "Rodrigo Alvarez",
-  "Livro": "Maria"
+  "Livro": "Maria",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
-  "Livro": "Identidade e missão do religioso irmão na Igreja"
+  "ID": 2088,
+  "Livro": "Identidade e missão do religioso irmão na Igreja",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2089,
   "Autor": "Mizaél Donizetti Pugioli",
-  "Livro": "Dignidade dos pobres"
+  "Livro": "Dignidade dos pobres",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2090,
   "Autor": "Roberto Italo Zanini",
-  "Livro": "Bakhita - inchiesta su una santa per il 2000"
+  "Livro": "Bakhita - inchiesta su una santa per il 2000",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2091,
   "Autor": "Nostradamus",
-  "Livro": "As profecias"
+  "Livro": "As profecias",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2092,
   "Autor": "Leornado Boff",
-  "Livro": "Paixão de Cristo Paixão do mundo"
+  "Livro": "Paixão de Cristo Paixão do mundo",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2093,
   "Autor": "P. João Roberto Pavani",
-  "Livro": "Evangelho de Jesus Cristo segundo Mateus - um guia de estudo"
+  "Livro": "Evangelho de Jesus Cristo segundo Mateus - um guia de estudo",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2094,
   "Autor": "Santa madalena de Canossa",
-  "Livro": "Vida e Obra de Santa Madalena de Canossa"
+  "Livro": "Vida e Obra de Santa Madalena de Canossa",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2095,
   "Autor": "…",
-  "Livro": "30 Dias com Santa Teresa de Jesus"
+  "Livro": "30 Dias com Santa Teresa de Jesus",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
-  "Livro": "30 dias com São Frncisco de Assis"
+  "ID": 2096,
+  "Livro": "30 dias com São Frncisco de Assis",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2097,
   "Autor": "Maria Cecília de M. Duprat",
-  "Livro": "Orações do dia-a-dia"
+  "Livro": "Orações do dia-a-dia",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2098,
   "Autor": "Pe. Zezinho",
-  "Livro": "A família em 1 minuto"
+  "Livro": "A família em 1 minuto",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2099,
   "Autor": "Maria Mercedes",
-  "Livro": "Ser feliz! A decisão é sua - reconheça a felicidade a partir das próprias atitudes"
+  "Livro": "Ser feliz! A decisão é sua - reconheça a felicidade a partir das próprias atitudes",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
-  "Livro": "30 dias com Santa Teresinha do menino Jesus"
+  "ID": 2100,
+  "Livro": "30 dias com Santa Teresinha do menino Jesus",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2101,
   "Autor": "Severino Vicente da Silva",
-  "Livro": "Igreja e o contro social nos sertões nordestinos"
+  "Livro": "Igreja e o contro social nos sertões nordestinos",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2102,
   "Autor": "Profetas do Reino ",
-  "Livro": "Apresentação de familias religiosas no Brasil"
+  "Livro": "Apresentação de familias religiosas no Brasil",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2103,
   "Autor": "…",
-  "Livro": "A devoção aos Anjos de Deus - orações para invocar proteção e bênçãos"
+  "Livro": "A devoção aos Anjos de Deus - orações para invocar proteção e bênçãos",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2104,
   "Autor": "…",
-  "Livro": "Cantos para encontros de casais com Cristo"
+  "Livro": "Cantos para encontros de casais com Cristo",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
-  "Livro": "Cantos para encontros de casais com Cristo"
+  "ID": 2105,
+  "Livro": "Cantos para encontros de casais com Cristo",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2106,
   "Autor": "Vanderlei Danielski",
-  "Livro": "Aprendizagem - por que a criança não consegue estudar?"
+  "Livro": "Aprendizagem - por que a criança não consegue estudar?",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2107,
   "Autor": "Santiago Insunza",
-  "Livro": "Santo Agostinho - um enamorado da vida"
+  "Livro": "Santo Agostinho - um enamorado da vida",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2108,
   "Autor": "Edvino Augusto Friderichs",
-  "Livro": "Caixinha de perguntas sobre religião e superstições"
+  "Livro": "Caixinha de perguntas sobre religião e superstições",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2109,
   "Autor": "Mizaél Donizetti Pugioli",
-  "Livro": "Tecendo a caridade"
+  "Livro": "Tecendo a caridade",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2110,
   "Autor": "Segundo Galilea",
-  "Livro": "Evangelizar os pobres?"
+  "Livro": "Evangelizar os pobres?",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2111,
   "Autor": "Silvestro Mischtelli",
-  "Livro": "Recordando Padre Pio"
+  "Livro": "Recordando Padre Pio",
+  "Setor": "z5",
+  "Área": "Diversos"
  },
  {
+  "ID": 2112,
   "Autor": "Santiago Marín",
-  "Livro": "O evangelho secreto da virgem Maria"
+  "Livro": "O evangelho secreto da virgem Maria",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2113,
+  "Autor": "Teresio Bosco",
+  "Livro": "Madre Teresa di Calcuta",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2114,
+  "Autor": "Daniel L. Lowery",
+  "Livro": "Dicionário Católico Básico",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2115,
+  "Autor": "Tito Colliander",
+  "Livro": "\"A oração dos pobres\": Caminho dos ascetas - iniciação à vida espiritual ",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2116,
+  "Autor": "Rodrigo Ferreira",
+  "Livro": "A cura pelo perdão",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2117,
+  "Autor": "Leornado Boff",
+  "Livro": "A santíssima Trindade e a melhor comunidade",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2118,
+  "Autor": "Ida Zanolini",
+  "Livro": "Toria Meravigliosa - Santa Giuseppina Bakhita",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2119,
+  "Livro": "A essência do Amor - A essência da sabedoria dos gandes gênios de todos tempos",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2120,
+  "Autor": "Gianni Bassi",
+  "Livro": "Amarsi - I sentimenti nel rapporto di coppia",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2121,
+  "Autor": "Neri Feitosa ",
+  "Livro": "O Padre Cícero e a opção pelos pobres",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2122,
+  "Autor": "David Bell",
+  "Livro": "Conceitos da psicánalise - Paranóia",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2123,
+  "Autor": "Carlos González Vallés ",
+  "Livro": "Querida Igreja",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2124,
+  "Autor": "Conselho Pontifício para a Família",
+  "Livro": "Sexualidade humana - verdade e significado",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2125,
+  "Autor": "Michel Legrain",
+  "Livro": "Os cristãos diante do divórcio",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2126,
+  "Autor": "Papa Bento XVI",
+  "Livro": "A porta da fé (porta fidei)",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2127,
+  "Autor": "…",
+  "Livro": "Livro litúrgico - JMJ RIO 2013",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2128,
+  "Autor": "Pe. Marcos Rogério",
+  "Livro": "Ele está no meio de nós ",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2129,
+  "Autor": "Leornado Boff",
+  "Livro": "O destino do homem e do mundo",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2130,
+  "Autor": "Leornado Boff",
+  "Livro": "Vida para além da morte",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2131,
+  "Autor": "Marilyn Yalom",
+  "Livro": "A história da Esposa da virgem Maria a Madonna",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2132,
+  "Autor": "CNBB",
+  "Livro": "Instrução geral do Missal Romano e introdução ao lecionário",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2133,
+  "Autor": "Segundo Galilea",
+  "Livro": "Viver o evangelho em terra estranha",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2134,
+  "Autor": "Vozes",
+  "Livro": "Os mais belos contos de Natal",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2135,
+  "Autor": "Diocese de Limeira ",
+  "Livro": "Guia em preparação para a vida matrimonial - 2018",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2136,
+  "Autor": "Plinio Maria Solimeo",
+  "Livro": "O santo sudário - testemunho da Paixão, Morte e Ressureição de Cristo",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2137,
+  "Autor": "Dunga",
+  "Livro": "Cinco pedras de Davi",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2138,
+  "Autor": "Papa Francisco",
+  "Livro": "Homilias da manhã - na capela da Domus Sanctae Marthae",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2139,
+  "Autor": "…",
+  "Livro": "Discípulos-pastores - para ajudar-nos e para ajudar - subsídios para a formação permanente do clero",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2140,
+  "Autor": "Conselho Pontifício para a Família",
+  "Livro": "Família, matrimônio e \"unioes de fato\"",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2141,
+  "Livro": "\"a oração dos pobres\" - pequena filocalia - o livro clássico da Igreja oriental",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2142,
+  "Livro": "\"a oração dos pobres\" - palavras dos antigos - sentenças dos padres do deserto",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2143,
+  "Autor": "Amedeo Cencini",
+  "Livro": "Intengração comunitária do bem e do mal \"… como óleo perfumado…\"",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2144,
+  "Autor": "Franz Hinkelammert",
+  "Livro": "A maldição que pesa sobre a lei - As raízes do pensamento crítco de Paulo de Tarso",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2145,
+  "Autor": "…",
+  "Livro": "Padova - Battistero della catedrale",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2146,
+  "Autor": "..",
+  "Livro": "Um rastro luminoso de monza à Índia",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2147,
+  "Autor": "CNBB",
+  "Livro": "Instruções sobre a Teologia da Libertação",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2148,
+  "Autor": "Amedeo Cencini",
+  "Livro": "Amarás o senhor teu Deus - psicologia do encontro com Deus",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2149,
+  "Autor": "Pe. Reginaldo Manzotti",
+  "Livro": "Nunca foi segredo - a sabedoria de milênios em 60 ensinamentos",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2150,
+  "Autor": "F. Lelotte",
+  "Livro": "Convertidos do século XX",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2151,
+  "Autor": "Pe. Arlindo Tonetta",
+  "Livro": "O santo dos doentes",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2152,
+  "Autor": "…",
+  "Livro": "Orações de Júbilo",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2153,
+  "Livro": "Orações de Júbilo",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2154,
+  "Autor": "P. Vicente Pedroso",
+  "Livro": "A vida de S. Amaro Abade",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2155,
+  "Autor": "Alfonso Milagro",
+  "Livro": "O evangelho meditado para cada dia do ano",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2156,
+  "Autor": "Darlei Zanon",
+  "Livro": "Parábolas de Fé",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2157,
+  "Autor": "Papa Francesco",
+  "Livro": "XXIX Domenica del tempo ordinario - santa messa - celebrata dal santo padre",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2158,
+  "Livro": "Vocação Religiosa! - Caminhando com Cristo para juntos semear",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2159,
+  "Autor": "Georges Bernanos",
+  "Livro": "Diário de uma paróco de aldeia",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2160,
+  "Autor": "Conselho Nacional ECC",
+  "Livro": "Subsídios para o pós-encontro",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2161,
+  "Autor": "Papa Francisco",
+  "Livro": "Mitis Iudex Dominus Iesus e Mitis et Misericors Iesus",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2162,
+  "Autor": "Fernando Riese PIO X",
+  "Livro": "Por amor à vida - Santa Gianna Beretta Molla",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2163,
+  "Autor": "Max Horkheimer",
+  "Livro": " la nostalgia del toalmente altro",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2164,
+  "Autor": "…",
+  "Livro": "A práxis do martírio ontem e hoje",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2165,
+  "Autor": "…",
+  "Livro": "Ano da vida consagrada - Alegrai-vos ",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2166,
+  "Autor": "Paulus",
+  "Livro": "Bíblia do peregrino",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2167,
+  "Autor": "Argemiro Octaviano",
+  "Livro": "Elementos para formação da história da construção da nova matriz",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2168,
+  "Autor": "Papa Francisco",
+  "Livro": "Abramo-nos à luz do Senhor",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2169,
+  "Autor": "Piero Amenta",
+  "Livro": "Os processoas administrativos em matéria de Matrimônio canônico: história, legislação e práxis",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2170,
+  "Autor": "CNBB",
+  "Livro": "1- A bem aventurança da Virgem Maria mãe de Deus no mistério de Cristo e da Igreja",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2171,
+  "Autor": "Leornado Boff",
+  "Livro": "Vida segundo o espírito",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2172,
+  "Autor": "José Moraleda",
+  "Livro": "As seitas hoje - novos movimentos religiosos",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2173,
+  "Autor": "Pe. Augusto C. Pereira",
+  "Livro": "Confissão",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2174,
+  "Autor": "Humberto Robson de Carvalho",
+  "Livro": "Iniciação à vida cristã e pedagogia catecumenal",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2175,
+  "Autor": "Michel Quoist",
+  "Livro": "Deus - espera por mim",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2176,
+  "Autor": "Carlos Mesters",
+  "Livro": "Os dez mandamentos - ferramenta da comunidade",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2177,
+  "Autor": "D. García M. Colombás",
+  "Livro": "Diálogo com Deus - introdução à \"Lectio Divina\"",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2178,
+  "Autor": "Edvaldo M. Araújo",
+  "Livro": "Dom Helder Camara - profeta-peregrino da justiça e da paz",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2179,
+  "Autor": "Altierez dos Santos",
+  "Livro": "Presença de Maria",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2180,
+  "Autor": "Teresio Bosco",
+  "Livro": "Massimiliano kolbe",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2181,
+  "Autor": "Khalil Gibran",
+  "Livro": "Jesus, o filho do homem",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2182,
+  "Livro": "Via-Sacra olhai para aquele a quem traspassaram - 2024",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2183,
+  "Autor": "Dostoiévski",
+  "Livro": "Os irmão Karamazov",
+  "Setor": "z5",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2184,
+  "Autor": "D. Sparpaglione",
+  "Livro": "Il beato Luigi Orione",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2185,
+  "Livro": "Madre Anna con Noi 1948-1990",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2186,
+  "Livro": "Regra da Sociedade de S. Vicente de Paulo no Brasil",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2187,
+  "Autor": "Card. Gabriel M. Garrone",
+  "Livro": "S. Alfonso - dottore della chiesa",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2188,
+  "Livro": "Émile Anizan - filhos da caridade",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2189,
+  "Livro": "As aparições e a mensagem de Fátima conforme os manuscritos da Irmã Lúcia",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2190,
+  "Autor": "Ney de Souza",
+  "Livro": "O coração fala mais alto - vida de São João Maria Vianney narrada para o homem de hoje",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2191,
+  "Autor": "Frei Jorge E. Hartmann",
+  "Livro": "Francisco - o irmão sempre alegre",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2192,
+  "Autor": "P. Dr. Vicente Clmatti",
+  "Livro": "Dom bosco educador",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2193,
+  "Autor": "Enzo Sanângelo",
+  "Livro": "A alegria de evanelizar",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2194,
+  "Autor": "Madeleine des rivières",
+  "Livro": "Ozanam - um sábio entre os pobres",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2195,
+  "Autor": "Mino Valeri",
+  "Livro": "Cascia - guida turistica",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2196,
+  "Autor": "Jusan F. Novaes ",
+  "Livro": "Pelos caminhos do amor",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2197,
+  "Autor": "Josemaria Escrivá",
+  "Livro": "Amigos de Deus - homilias",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2198,
+  "Autor": "Gaetano Passarelli",
+  "Livro": "Um sacerdote para os outros - Padre Donizetti",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2199,
+  "Autor": "Loyola",
+  "Livro": "Diário espiritual de Santo Inácio de Loyola",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2200,
+  "Autor": "Madre Maria Joseffa Vendramin",
+  "Livro": "Reflexos de Nazaré",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2201,
+  "Autor": "Carlo Maria Martini",
+  "Livro": "Sto Alla Porta",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2202,
+  "Autor": "José Luís González-balado ",
+  "Livro": "O desafio de Taizé - Ir. Roger",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2203,
+  "Autor": "Giuseppe Germier",
+  "Livro": "Un Gesuita Coraggioso",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2204,
+  "Autor": "…",
+  "Livro": "Monsenhor Luiz Caburlotto e as filhas de São José",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2205,
+  "Autor": "Ernesto Balducci",
+  "Livro": "Papa Giovanni",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2206,
+  "Autor": "…",
+  "Livro": "Angela Merici - uma Santa que caminha conosco (HQ)",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2207,
+  "Autor": "…",
+  "Livro": "Vida dos Santos de Butler XII Dezembro",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2208,
+  "Autor": "Pe. Joseph de Anchiete",
+  "Livro": "De gestis mendi de saa",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2209,
+  "Autor": "Maria da Conceição Lopes Campina",
+  "Livro": "Voz do Padre Cícero",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2210,
+  "Autor": "Maria da Conceição Lopes Campina",
+  "Livro": "Voz do Padre Cícero",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2211,
+  "Autor": "Maria da Conceição Lopes Campina",
+  "Livro": "Voz do Padre Cícero",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2212,
+  "Autor": "Luiz Roberto Benedetti",
+  "Livro": "Os santos nômades e o Deus estabelecido",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2213,
+  "Autor": "Luiz Roberto Benedetti",
+  "Livro": "Os santos nômades e o Deus estabelecido",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2214,
+  "Autor": "Luiz Roberto Benedetti",
+  "Livro": "Os santos nômades e o Deus estabelecido",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2215,
+  "Autor": "Luiz Roberto Benedetti",
+  "Livro": "Os santos nômades e o Deus estabelecido",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2216,
+  "Autor": "Luiz Roberto Benedetti",
+  "Livro": "Os santos nômades e o Deus estabelecido",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2217,
+  "Autor": "Luiz Roberto Benedetti",
+  "Livro": "Os santos nômades e o Deus estabelecido",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2218,
+  "Autor": "Luís Rolfo",
+  "Livro": "Padre Alberione",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2219,
+  "Autor": "…",
+  "Livro": "Vida dos santos de Butler XI Novembro",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2220,
+  "Autor": "…",
+  "Livro": "Vida dos santos de Butler X Outubro",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2221,
+  "Autor": "…",
+  "Livro": "Vida dos santos de Butler IX Setembro",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2222,
+  "Autor": "…",
+  "Livro": "Vida dos santos de Butler VII julho",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2223,
+  "Autor": "…",
+  "Livro": "Vida dos santos de Butler VII julho",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2224,
+  "Autor": "…",
+  "Livro": "Vida dos santos de Butler VIII Agosto",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2225,
+  "Autor": "Colette Yver",
+  "Livro": "A humilde S. Bernadette",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2226,
+  "Autor": "Afonso de Santa Criz",
+  "Livro": "A inexplicável Merloni",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2227,
+  "Autor": "Bernhard Haring",
+  "Livro": "Nuove armi per la pace",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2228,
+  "Autor": "P. Rafael M. López-Malús",
+  "Livro": "Vida de San Isidro Labrador",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2229,
+  "Autor": "Abdalaziz de Moura",
+  "Livro": "Frei Damião - E os impasses da religião popular",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2230,
+  "Autor": "Pe. Alberto Gambarini",
+  "Livro": "O poder da palavra que transformam vidas",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2231,
+  "Autor": "Benjamim Santos",
+  "Livro": "Paixão de Cristo ",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2232,
+  "Autor": "Pierre-Marie Delfieux",
+  "Livro": "Dez chaves para a oração",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2233,
+  "Autor": "Afonso de Santa Criz",
+  "Livro": "Missionário de Sangue",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2234,
+  "Autor": "Pe. Antonio Henrique Pereira Neto",
+  "Livro": "O mártir da juventude",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2235,
+  "Autor": "L. de Marchi",
+  "Livro": "S. Rita de Cássia",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2236,
+  "Autor": "D. Sparpaglione",
+  "Livro": "Don Orione",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2237,
+  "Autor": "Inácio Larranaga",
+  "Livro": "O irmão de Assis",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2238,
+  "Autor": "Frei Felicissimo Martinez Diaz",
+  "Livro": "Domingos de Gusmão - o evangelho vivo",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2239,
+  "Autor": "Ana Maria Bessa",
+  "Livro": "Encontro com o  amor - espiritualidade de Santa Teresinha reflexões",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2240,
+  "Autor": "Henri Caffarel",
+  "Livro": "Presença de Dues - cem cartas sobre a oração",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2241,
+  "Autor": "N. Maccari",
+  "Livro": "Cristãos hoje",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2242,
+  "Autor": "Silvio Tramontin",
+  "Livro": "Luigi Caburlotto - Apostolo dell'educazione",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2243,
+  "Autor": "Wolgang Beinert ",
+  "Livro": "O culto aos santos hoje",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2244,
+  "Autor": "…",
+  "Livro": "Vida dos santos de Butler VI JUNHO",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2245,
+  "Autor": "…",
+  "Livro": "Vida dos Santos deButler V Maio",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2246,
+  "Autor": "…",
+  "Livro": "Vidas dos Santos de Butler IV Abril",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2247,
+  "Autor": "…",
+  "Livro": "Vidas dos Santos de Butler IV Abril",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2248,
+  "Autor": "…",
+  "Livro": "Vida dos santos de Butler III Março",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2249,
+  "Autor": "…",
+  "Livro": "Vida dos santos de Butler II Fevereiro",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2250,
+  "Autor": "…",
+  "Livro": "Vida dos santos de Butler I Janeiro",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2251,
+  "Autor": "Domenico Agasso ",
+  "Livro": "Paolo VI- Le chiavi pesanti",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2252,
+  "Autor": "…",
+  "Livro": "O cardial Cerejeira no Brasil",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2253,
+  "Autor": "Maristas",
+  "Livro": "B. Marcelino Champagnat",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2254,
+  "Autor": "Pe. Franscisco de Assis Correia",
+  "Livro": "História da Arquidiocese de Ribeirão Preto",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2255,
+  "Autor": "Cardeal Eugênio Tisserand",
+  "Livro": "Angela Merici e a companhia de Santa Ursula - À luz de documentos",
+  "Setor": "b3",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2256,
+  "Autor": "Jacinta Turolo Garcia",
+  "Livro": "Eduth Stein - Holocausto para seu pvo",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2257,
+  "Autor": "Jacinta Turolo Garcia",
+  "Livro": "Eduth Stein - Holocausto para seu pvo",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2258,
+  "Autor": "Pe. Armando Cardoso",
+  "Livro": "Um carismático que fez história - vida do Pe. José de Anchieta",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2259,
+  "Autor": "Fernando Riese PIO X",
+  "Livro": "Por amor à vida - Santa Gianna Beretta Molla",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2260,
+  "Autor": "Salverio Gaeta",
+  "Livro": "Il segreto di Madre Teresa",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2261,
+  "Autor": "Terésio Bosco",
+  "Livro": "Dom bosco - uma biografia nova para jovens",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2262,
+  "Autor": "VV.AA",
+  "Livro": "Mulheres à frente de seu tempo - história de santas",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2263,
+  "Autor": "Papa Francisco",
+  "Livro": "Pronuciamentos do Papa Francisco no Brasil",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2264,
+  "Autor": "Santo Inácio de Loyola",
+  "Livro": "Autobiografia",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2265,
+  "Autor": "Frei Patrício Sciadini",
+  "Livro": "Mestre João da Cruz",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2266,
+  "Autor": "Dante Massironi",
+  "Livro": "Um mártir na China",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2267,
+  "Autor": "Pe. José Artulino Besen",
+  "Livro": "São José - esposo e pai",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2268,
+  "Autor": "Pe. José Artulino Besen",
+  "Livro": "Madre Teresa de Calcutá",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2269,
+  "Autor": "Pe. José Artulino Besen",
+  "Livro": "São benedito",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2270,
+  "Autor": "Nican Mopohua",
+  "Livro": "A virgem de Guadalupe",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2271,
+  "Autor": "Ivan Lins ",
+  "Livro": "Aspectos do Padre Antônio Vieira",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2272,
+  "Autor": "Robert Sarah",
+  "Livro": "A serviço da verdade - sacerdócio e vida ascética",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2273,
+  "Autor": "Rosa Amanda Strausz",
+  "Livro": "Teresa - a santa apaixonada",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2274,
+  "Autor": "Jean François Six",
+  "Livro": "Teresa de Lisieux",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2275,
+  "Autor": "Auffray",
+  "Livro": "Dom Bosco",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2276,
+  "Autor": "Josemaria Escrivá",
+  "Livro": "É o Cristo que passa - homilias",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2277,
+  "Autor": "Inácio Larranaga",
+  "Livro": "O irmão de Assis",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2278,
+  "Autor": "P. J.C.M Colombo",
+  "Livro": "Frederico Clraham",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2279,
+  "Autor": "Fernando da Riese Pio X",
+  "Livro": "Gieena Beretta Molla - o sim à vida",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2280,
+  "Autor": "Madre Ília Corsaro",
+  "Livro": "Os pequenos passam fome",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2281,
+  "Autor": "Enzo Lodi",
+  "Livro": "Os santos do calendário romano",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2282,
+  "Autor": "Lorenzo Galmés",
+  "Livro": "Bartolomeu de Las Casas - defensor dos direitos humanos",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2283,
+  "Autor": "Santa Teresa de Jesus",
+  "Livro": "Livro da vida",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2284,
+  "Autor": "Michael Quoist",
+  "Livro": "Novos poemas para rezar",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2285,
+  "Autor": "Pe. Lourenço Ferronatto",
+  "Livro": "José de Anchieta - o santo que amou o Brasil",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2286,
+  "Autor": "Maximiliano Calvo Arino",
+  "Livro": "Espírito e palavra - itinerário de Fé, serviço e amor",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2287,
+  "Autor": "Pe. Flávio Rosa",
+  "Livro": "Festa Temporona em louvor a São Sebastião no pedaço mineiro",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2288,
+  "Autor": "Antônio Bággio",
+  "Livro": "O Antônio que une os corações",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2289,
+  "Autor": "Wilson João",
+  "Livro": "O Francisco que está em você",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2290,
+  "Autor": "José de Anchieta",
+  "Livro": "Poema da Virgem",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2291,
+  "Autor": "Alfonso Milagro",
+  "Livro": "Os cinco minutos de Deus - meditações para todos os dias do ano",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2292,
+  "Autor": "Pe. Armando Cardoso",
+  "Livro": "O bem-aventurado Anchieta",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2293,
+  "Autor": "Fagunde Varella",
+  "Livro": "Anchieta ou o evangelho nas selvas",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2294,
+  "Autor": "Franciscanos",
+  "Livro": "São Francisco de Assis - escritos",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2295,
+  "Autor": "Emilio Vicente Mateu",
+  "Livro": "Santo Antônio Maria Claret - missionário Apostólico",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2296,
+  "Autor": "…",
+  "Livro": "Madre Teresa - Il cammino semplice - una vita per gli altri",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2297,
+  "Autor": "Filhos da Pobre do Santíssimo Sacramento",
+  "Livro": "Constituições",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2298,
+  "Autor": "…",
+  "Livro": "L'uomo a colloquio con Dio",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2299,
+  "Autor": "Contardo Miglioranza",
+  "Livro": "Charbel Makhluf",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2300,
+  "Autor": "José Fernandes de Oliveira",
+  "Livro": "Por cause de um certo reino - história de Leão Dahon e de sua incrível paz inquieta",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2301,
+  "Autor": "Padre Hurtado",
+  "Livro": "Mensaje a los jovenes",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2302,
+  "Autor": "Pe. Antônio Vieira",
+  "Livro": "Missionário do Norte do Brasil",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2303,
+  "Autor": "Afonso de Santa Criz",
+  "Livro": "Os Santos duvidaram",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2304,
+  "Autor": "Pe. Raul Paiva",
+  "Livro": "São Francisco Xavier - Um jesuíta nos caminhos do oriente",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2305,
+  "Autor": "Raoul Follereau",
+  "Livro": "Cinquenta anos entre os leprosos - cinquenta recordações",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2306,
+  "Autor": "Afonso de Santa Criz",
+  "Livro": "Sem máscara",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2307,
+  "Autor": "…",
+  "Livro": "El siervo de Dios - Don Luis Orione",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2308,
+  "Autor": "Vittorio Morero",
+  "Livro": "Francisco Pianzola - para uma igreja jovem",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2309,
+  "Autor": "Cirillo Tescaroli",
+  "Livro": "Padre Damião - o missionário leproso",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2310,
+  "Autor": "Porfirio de Aguiar",
+  "Livro": "Vida de S. Ignacio de Loyola",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2311,
+  "Autor": "…",
+  "Livro": "Santificou-se apesar da família, da saúde, da época!",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2312,
+  "Autor": "Afonso de Santa Criz",
+  "Livro": "A peregrina do Sol",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2313,
+  "Autor": "Frei José Carlos",
+  "Livro": "Meu Rosário",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2314,
+  "Autor": "Afonso de Santa Criz",
+  "Livro": "A \"outra\" Madalena",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2315,
+  "Autor": "Teresio Bosco",
+  "Livro": "Domingos Savio",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2316,
+  "Autor": "Afonso de Santa Criz",
+  "Livro": "A peregrina do Sol",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2317,
+  "Autor": "…",
+  "Livro": "O Opus Dei - prelazia pessoal",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2318,
+  "Autor": "Afonso de Santa Criz",
+  "Livro": "A dama dos três corações",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2319,
+  "Autor": "Afonso de Santa Criz",
+  "Livro": "Despitou 1000 Secretas",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2320,
+  "Autor": "Padre Hurtado",
+  "Livro": "Mensaje a los jovenes",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2321,
+  "Autor": "Pe. Lidio Zaupa",
+  "Livro": "Um santo para o nosso tempo - São Gaspar Bertoni",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2322,
+  "Autor": "Frei Eduardo Chagas",
+  "Livro": "Novena em louvor a São Francisco de Assis ",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2323,
+  "Autor": "…",
+  "Livro": "As aparições e a mensagem de Fátima conforme os manuscritos da Irmã Lúcia",
+  "Setor": "b4",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2324,
+  "Autor": "João Modesti",
+  "Livro": "Dom bosco - faces da sua personalidade",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2325,
+  "Autor": "…",
+  "Livro": "Madre Anna con Noi 1948-1990",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2326,
+  "Autor": "Mário Von Galli",
+  "Livro": "Francisco de Assis - O santo que viveu o futuro",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2327,
+  "Autor": "José Comblin",
+  "Livro": "Jesus de Nazaré",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2328,
+  "Autor": "Carlos Borromeu",
+  "Livro": "Redovino Rizzardo",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2329,
+  "Autor": "Frei Apollonio Troesi",
+  "Livro": "Una Riuscita veramente felice",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2330,
+  "Autor": "Lucilla Baptista Pereira",
+  "Livro": "Curas - medicamente inexplicáveis",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2331,
+  "Autor": "Leonardo Boff",
+  "Livro": "São Francisco de Assis: ternura e Vigor",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2332,
+  "Autor": "Pe. Felisberto Campagner",
+  "Livro": "Da Cruz para a Luz - biografia do Pe. Luís Maria Fernandes",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2333,
+  "Autor": "Clara Gennaro",
+  "Livro": "Francesco d'assisi",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2334,
+  "Autor": "Fernando da Riese Pio X",
+  "Livro": "San Pio X - un figlio di Riese",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2335,
+  "Autor": "Argemiro Octaviano",
+  "Livro": "Fatos, contos, causos, e personagens inesquecíveis da História de Santa Rita do Passa Quatro",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2336,
+  "Autor": "Alessandro da Ripabottoni",
+  "Livro": "Padre Pio da Pietrelcina \"Il cireneio di tutti\"",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2337,
+  "Autor": "Pe. Afonso Rodrigues",
+  "Livro": "Diário da DEBUTANTE",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2338,
+  "Autor": "Mosteiro de Piracicaba",
+  "Livro": "Santa Teresa d'Ávila",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2339,
+  "Autor": "Frei Patrício Sciadini",
+  "Livro": "\"Deixe-se Amar\" - experiência de Deus com Teresa d'ávila",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2340,
+  "Autor": "Carlos Afonso Schmitt",
+  "Livro": "Nada é pequeno onde o amor é grande - Vida de Santa Teresinha do Menino Jesus",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2341,
+  "Autor": "Leonardo Boff",
+  "Livro": "São Francisco de Assis: ternura e Vigor",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2342,
+  "Autor": "Haroldo J. Rahm ",
+  "Livro": "José era um homem justo",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2343,
+  "Autor": "Enzo Santângelo",
+  "Livro": "Daniel Comboni - missionário e libertador",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2344,
+  "Autor": "Piero Gheddo",
+  "Livro": "Marcello Cândio - O empresário dos pobres",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2345,
+  "Autor": "Fidélis Dalcin Barbosa",
+  "Livro": "Madre Paulina, a coloninha",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2346,
+  "Autor": "Pe. José Antônio Bertolin",
+  "Livro": "São José, fiel vocacionado",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2347,
+  "Autor": "Carlo Maria Martini",
+  "Livro": "Parlo al tuo cuore - per una regola di vita del cristiano ambrosiano",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2348,
+  "Autor": "Frei Ildefonso silveira",
+  "Livro": "A vida dos Santos na Liturgia - Leitura para reflexão",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2349,
+  "Autor": "Pe. Armando Cardoso",
+  "Livro": "O bem-aventurado Anchieta",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2350,
+  "Autor": "B.Haring",
+  "Livro": "A lei de Cristo - tomo 1 - Teologia moral geral",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2351,
+  "Autor": "Cardeal Arns",
+  "Livro": "Santos e heróis do povo",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2352,
+  "Autor": "Jaime Rodrigues",
+  "Livro": "O projeto educativo de Dom Bosco",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2353,
+  "Autor": "Pe. Arlindo Tonetta",
+  "Livro": "O santo dos doentes",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2354,
+  "Autor": "Pe. Arlindo Tonetta",
+  "Livro": "O santo dos doentes",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2355,
+  "Autor": "..",
+  "Livro": "Domenica di pentecoste",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2356,
+  "Autor": "Fernando da Riese Pio X",
+  "Livro": "Morreu por dizer \"sim\" à vida",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2357,
+  "Autor": "Isac Lorena",
+  "Livro": "Pedro - a pedra",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2358,
+  "Autor": "Charlotte Merius",
+  "Livro": "Eu Maria, Madalena",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2359,
+  "Autor": "Pe. Antonio Henrique Pereira Neto",
+  "Livro": "O mártir da juventude",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2360,
+  "Autor": "Pe. Roque Scneider",
+  "Livro": "1- Roque González e companheiros",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2361,
+  "Autor": "Giovanni Ciravegna",
+  "Livro": "Tito Brandsma - O mártir da liberdade",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2362,
+  "Autor": "José Tissot",
+  "Livro": "La vida Interior",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2363,
+  "Autor": "G. Lubich e P. Lazzarin",
+  "Livro": "Paula Frassinetti - mulher para hoje",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2364,
+  "Livro": "Novo testamento  - português e inglês",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2365,
+  "Livro": "Santos Padres Espanõles 2 - San Leandro, San fructuoso, San Isidoro",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2366,
+  "Livro": "Santos Padres Espanõles 1 - San Ildefonso de Toledo",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2367,
+  "Autor": "A. Brandão",
+  "Livro": "São Camilo",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2368,
+  "Autor": "A. Brandão",
+  "Livro": "São Camilo",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2369,
+  "Autor": "Santa Teresa do Menino Jesus e da Santa Face",
+  "Livro": "Não morro… Entro na vida - últimos colóquios (Capa vermelha encardenada, sem texto)",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2370,
+  "Autor": "Santa Teresa do Menino Jesus e da Santa Face",
+  "Livro": "História de uma alma",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2371,
+  "Autor": "Saint Jérome ",
+  "Livro": "Lettres - Tome IV",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2372,
+  "Autor": "Saint Jérome ",
+  "Livro": "Lettres - Tome V",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2373,
+  "Autor": "A. Brandão",
+  "Livro": "São Camilo",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2374,
+  "Autor": "Lorenzo da Fara",
+  "Livro": "San Leopoldo Mandic",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2375,
+  "Autor": "Jean-Claude Larchet",
+  "Livro": "A teologia da doença",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2376,
+  "Autor": "…",
+  "Livro": "Os 3 pastorinhos de Fátima: Uma história de luz (HQ Infantil)",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2377,
+  "Autor": "..",
+  "Livro": "O coração de Jesus - segundo a doutrina de Santa Margarida Maria",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2378,
+  "Autor": "Giovanni Alberti",
+  "Livro": "Marietta",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2379,
+  "Autor": "Padre Angelo Saverio Zanisi",
+  "Livro": "Anime Lontane",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2380,
+  "Autor": "E. Sangalli",
+  "Livro": "Storia di una contenstazione",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2381,
+  "Autor": "D. FR. Vittorino Facchinetti",
+  "Livro": "Pio décimo",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2382,
+  "Autor": "Eric Doyle",
+  "Livro": "Francisco de Assis - e o cântico da fraternidade universal",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2383,
+  "Autor": "Pe. Inácio Bonetti",
+  "Livro": "Na escola de Deus com São Gaspar Bertoni",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2384,
+  "Autor": "Folha de São Paulo",
+  "Livro": "O bem-aventurado Josemaría Escrivá - fundador do Opus Dei",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2385,
+  "Autor": "…",
+  "Livro": "Ore Serene!",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2386,
+  "Autor": "…",
+  "Livro": "Merelino Champagnat - Herói e Santo",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2387,
+  "Autor": "…",
+  "Livro": "Mensageiro de Santa Teresinha do Menino Jesus",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2388,
+  "Autor": "Maria C.L. Campina",
+  "Livro": "Voz do Padre Cícero",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2389,
+  "Autor": "Maria C.L. Campina",
+  "Livro": "Voz do Padre Cícero",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2390,
+  "Autor": "Luiz Roberto Benedetti",
+  "Livro": "Os santos nômades e o Deus estabelecido",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2391,
+  "Autor": "Pe. André Ravier",
+  "Livro": "Bernadette Subirous",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2392,
+  "Autor": "Lago Maggiore",
+  "Livro": "Il scrarlone d'arona",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2393,
+  "Autor": "Mons. Dott. Antonio Slongo",
+  "Livro": "Caro Don Antonio",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2394,
+  "Autor": "Luis Guimarães Filho",
+  "Livro": "Fra Angelico",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2395,
+  "Autor": "…",
+  "Livro": "Os grandes Líderes: João XXIII",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2396,
+  "Autor": "…",
+  "Livro": "Santa Teresinha - A vida e a espiritualidade da pequena flor do Carmelo",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2397,
+  "Autor": "…",
+  "Livro": "São José - o homem simples que aceitou a missão de ser pai do Filho de Deus",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2398,
+  "Autor": "…",
+  "Livro": "Santo Antônio - o humilde pregador que se tornou santo do mundo inteiro",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2399,
+  "Autor": "…",
+  "Livro": "Nossa senhora desatadora dos Nós - As graças da devoção que conquistou o papa Francisco e todo o mundo",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2400,
+  "Autor": "…",
+  "Livro": "Santa Rita de Cássia - A vida e os milagres da mulher que se tornou a santa das causas impossíveis",
+  "Setor": "b5",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2401,
+  "Autor": "George Orwell",
+  "Livro": 1984,
+  "Setor": "f12",
+  "Área": "Literatura"
+ },
+ {
+  "ID": 2402,
+  "Autor": "Enzo Lodi",
+  "Livro": "Os santos do calendário romano",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2403,
+  "Autor": "Enzo Lodi",
+  "Livro": "Os santos do calendário romano",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2404,
+  "Livro": "\"fioretti\" do bom papa João",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2405,
+  "Autor": "G. Giacomini",
+  "Livro": "Maria Bolognesi - serva di Dio",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2406,
+  "Autor": "Pe. Antonio Capelesso",
+  "Livro": "Como o pai me amou… Reflexões diárias sobre a vida sacerdotal",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2407,
+  "Autor": "Papa João Paulo II",
+  "Livro": "Meditando o rosário",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2408,
+  "Autor": "L. de Marchi",
+  "Livro": "S. Rita de Cássia",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2409,
+  "Autor": "Papa Bento XVI",
+  "Livro": "A porta da fé (porta fidei)",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2410,
+  "Autor": "CNBB",
+  "Livro": "Caminhamos na estrada de Jesus - o evangelho de Marcos",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2411,
+  "Autor": "…",
+  "Livro": "O Opus Dei - prelazia pessoal",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2412,
+  "Autor": "CNBB",
+  "Livro": "Introdução à pastroal familiar",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2413,
+  "Autor": "Antônio Maria Claret",
+  "Livro": "Santo Antônio Claret - por ele mesmo",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2414,
+  "Autor": "Antônio Maria Claret",
+  "Livro": "Santo Antônio Claret - por ele mesmo",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2415,
+  "Autor": "Antônio Maria Claret",
+  "Livro": "Santo Antônio Claret - por ele mesmo",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2416,
+  "Autor": "NED",
+  "Livro": "I rocordi di San Carlo ai Milanesi",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2417,
+  "Autor": "…",
+  "Livro": "Don Bosco - I libri del colibri meridiano",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2418,
+  "Autor": "Angelo Scola",
+  "Livro": "Educarsi al pensiero di Cristo",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2419,
+  "Autor": "C. Carreto",
+  "Livro": "Eu, Francisco",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2420,
+  "Autor": "São Leaõ Magno",
+  "Livro": "Sermões",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2421,
+  "Autor": "….",
+  "Livro": "O evangelho de annunciata",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2422,
+  "Autor": "Augusto Palmonari",
+  "Livro": "Os adolescentes",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2423,
+  "Autor": "…",
+  "Livro": "I Giorn del Signore (capa marrom com Cruz grega azul)",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2424,
+  "Autor": "John Powell ",
+  "Livro": "O segredo do amor eterno",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2425,
+  "Autor": "…",
+  "Livro": "La regla de San Benito",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2426,
+  "Autor": "Santa Teresa",
+  "Livro": "Santa Teresa de Jesus - Obras completas",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2427,
+  "Autor": "Renato Perino",
+  "Livro": "OS santos que o mundo espera - reflexões sobre a vida religiosa hoje",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2428,
+  "Autor": "Pe. Pedro Teixeira Cavalcante",
+  "Livro": "Santa Teresinha em carne e osso",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2429,
+  "Autor": "Pedro Paulo Di Berardino",
+  "Livro": "Descoberta da pequena via - Santa Teresinha do menino Jesus",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2430,
+  "Autor": "Pe. Pedro Teixeira Cavalcante",
+  "Livro": "As mais belas páginas de Santa Teresinha",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2431,
+  "Autor": "J. Maurus",
+  "Livro": "Cultive sua auto-imagem",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2432,
+  "Autor": "John Main",
+  "Livro": "A palavra que leva ao silêncio",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2433,
+  "Autor": "Raniero Cantalamessa",
+  "Livro": "\"Eu lhes dou a minha paz\" - A paz com Deus, com os outros e consigo mesmo",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2434,
+  "Autor": "Radici Cristiane D'Europa",
+  "Livro": "Cirillo e metodio",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2435,
+  "Autor": "J. Sobrino",
+  "Livro": "Voz dos sem voz - A palavra profética de D. Oscar Romero",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2436,
+  "Autor": "Amedeo Cencini",
+  "Livro": "A alegria - sal da vida cristã",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2437,
+  "Autor": "Gian Carlo Sibillia",
+  "Livro": "Carreto - Um contemplativo pelos caminhos do mundo",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2438,
+  "Autor": "Mario Masini",
+  "Livro": "Belém - Lectio Divina do Natal",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2439,
+  "Autor": "Paulus",
+  "Livro": "Formação ecumênica - reflexões e sugestões ecumênicas",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2440,
+  "Autor": "Michele Aramini",
+  "Livro": "Santa Giuseppina Bakhita",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2441,
+  "Autor": "San Jeronimo",
+  "Livro": "Cartas de San Jeronimo",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2442,
+  "Autor": "José Luis Vázquez Borau",
+  "Livro": "Charles de Foucauld - E la Spiritualità di Nazaret",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2443,
+  "Autor": "Papa Paulo VI",
+  "Livro": "A evangelização no mundo contemporâneo \"Evangelli Nuntiandi\"",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2444,
+  "Autor": "François X.N",
+  "Livro": "Testemunhas da esperança",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2445,
+  "Autor": "Geraldo Alves Taveira",
+  "Livro": "Santo AntÔnio de Sant'Ana Galvão",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2446,
+  "Autor": "Jules Bulliard",
+  "Livro": "Acompanhamento de doentes terminais",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2447,
+  "Autor": "Canossianas",
+  "Livro": "Justiça, Paz e Integridade da Criação",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2448,
+  "Autor": "Marianas",
+  "Livro": "As congregações Marianas no Brasil",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2449,
+  "Autor": "Pe. Luiz Ignácio Bordignon Fernandes",
+  "Livro": "Maria - Cheia de Graça",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2450,
+  "Autor": "Walter Nigg",
+  "Livro": "Maximiliano Kolbe",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2451,
+  "Autor": "Dom Agnelo Rossi",
+  "Livro": "Santos e beatos da América",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2452,
+  "Autor": "D.Veremundo Toth",
+  "Livro": "Caminhos da Pastoral Vocacional",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2453,
+  "Livro": "Retiro Quaresmal 2021",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2454,
+  "Autor": "Gilda Korff Dieguez",
+  "Livro": "Esporte e poder",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2455,
+  "Autor": "Mara Silvia Carvalho de Menezes",
+  "Livro": "O que é amor exigente",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2456,
+  "Autor": "Raimundo Aristide da Silva",
+  "Livro": "A vida de Jesus narrada aos jovens",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2457,
+  "Autor": "Manoel Oliveira",
+  "Livro": "A discussão grupal - 2",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2458,
+  "Autor": "Pe. Urbano Rausch",
+  "Livro": "O esposo de Maria",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2459,
+  "Autor": "Cardeal Dom Cláudio Hummes",
+  "Livro": "Padres para a nova evangelização",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2460,
+  "Autor": "…",
+  "Livro": "Guadalupe - della parte degli ultimi",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2461,
+  "Autor": "Padre Thomas de Saint-Laurent",
+  "Livro": "São Vicente de Paulo",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2462,
+  "Autor": "Pe. Roque Vicente Baraldi",
+  "Livro": "101 títulos de Nossa Senhora na devoção popular",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2463,
+  "Autor": "Maria Winowska",
+  "Livro": "Maximiliano Kolbe",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2464,
+  "Autor": "Patricio Sciadini",
+  "Livro": "Mística e compromisso - pistas para dias de deserto",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2465,
+  "Autor": "Sandro Grimani",
+  "Livro": "O triângulo divino em S. João da Cruz",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2466,
+  "Autor": "Amedeo Cencini",
+  "Livro": "Um Deus para amar",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2467,
+  "Autor": "Nikos Kazantzakis",
+  "Livro": "Pobre de Deus",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2468,
+  "Autor": "Adele Cattari F.D.C.C",
+  "Livro": "Una prezenza signifcativa - nella storia delle figlie della carità",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2469,
+  "Autor": "Frei Patrício Sciadini",
+  "Livro": "A Nossa Senhora da América Latina",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2470,
+  "Autor": "Irmã Maria Pilar Vasconcellos",
+  "Livro": "Mulher de Coragem",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2471,
+  "Autor": "Irmã Maria Pilar Vasconcellos",
+  "Livro": "Mulher de Coragem",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2472,
+  "Autor": "João Costa",
+  "Livro": "Coração aberto aos pobres - vida de João Maria Boccardo",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2473,
+  "Autor": "Frei Salésio Hillesheim",
+  "Livro": "Cancioneiro - Para encontros vocacionais e de Jovens",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2474,
+  "Autor": "Frei Bernardo Cansi",
+  "Livro": "1- Simbolismos e tecnicas de Encenação para a catequese",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2475,
+  "Autor": "Franco Molinari",
+  "Livro": "Maria Crucifixa di Rosa - Santa para os outros",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2476,
+  "Autor": "Frei Hylton Miranda Rocha",
+  "Livro": "Pelos caminhos de Santo Agostinho",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2477,
+  "Autor": "Ney de Souza",
+  "Livro": "O coração fala mais alto - vida de São João Maria Vianney narrada para o homem de hoje",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2478,
+  "Autor": "Joaquín Alliende Luco ",
+  "Livro": "Diálogos com Maria no final do milênio",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2479,
+  "Livro": "Carisma do instituto das filhas de São José do servo de Deus Luiz Caburlotto (capa sem texto, branca e azul com desenhos)",
+  "Setor": "b6",
+  "Área": "Vida Santos"
+ },
+ {
+  "ID": 2480,
+  "Autor": "Claudio Perfetti",
+  "Livro": "Guadalupe - La Tilma della morentia",
+  "Setor": "b6",
+  "Área": "Vida Santos"
  }
-
 
 
 
