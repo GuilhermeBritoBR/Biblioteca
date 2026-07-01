@@ -1,6 +1,4 @@
 const catalogo = [
-    
- 
  
  {
   "ID": 1,
@@ -12344,7 +12342,2346 @@ const catalogo = [
   "Livro": "A rosa da Vida",
   "Setor": "z12",
   "Área": "Diversos"
+ },
+ {
+  "ID": 1765,
+  "Autor": "Dostoiévski",
+  "Livro": "Crime e castigo",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1766,
+  "Autor": "Cristiana Marques",
+  "Livro": "Orações para uma vida feliz",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1767,
+  "Autor": "Posteitaliane",
+  "Livro": "CAP - Codice di avviamente Postale",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1768,
+  "Autor": "Tomás Halìk",
+  "Livro": "A noite do confessor - A fé cristã num mundo de incerteza",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1769,
+  "Autor": "CNBB",
+  "Livro": "Cristãos leigos e leigas na igreja e na sociedade - sal da terra e luz do mundo",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1770,
+  "Autor": "Mizaél Donizzetti Poggioli",
+  "Livro": "Missionários na Caridade",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1771,
+  "Autor": "Battista Mondin",
+  "Livro": "Curso de filosofia - 1",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1772,
+  "Autor": "Gilberto Cotrim",
+  "Livro": "Fundamentos da Filosofia - Ser,saber e fazer",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1773,
+  "Autor": "Otfried Hoffe",
+  "Livro": "A democracia no mundo de hoje",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1774,
+  "Autor": "Ronaldo Zacharias",
+  "Livro": "A moral do Papa Francisco",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1775,
+  "Autor": "João Batista Berardo",
+  "Livro": "Guerrilhas e guerrilheiros",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1776,
+  "Autor": "Vicente Madoz",
+  "Livro": "10 palavras-cheve sobre os medos do homem moderno",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1777,
+  "Autor": "Saldor López",
+  "Livro": "Psicologia e vida consagrada",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1778,
+  "Autor": "Viktor E. Frankl",
+  "Livro": "Psicoterapia e sentido da vida",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1779,
+  "Autor": "Hipócrates",
+  "Livro": "Aforismos - antologia",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1780,
+  "Autor": "Hélio Bicudo",
+  "Livro": "Violência - O Brasil cruel e sem maquiagem",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1781,
+  "Autor": "Soeren A. Kierkegaard",
+  "Livro": "Das profundezas - preces",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1782,
+  "Autor": "Victor Hugo",
+  "Livro": "O último dia de um condenado",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1783,
+  "Autor": "Helmut Hark",
+  "Livro": "Léxico dos conceitos janguianos fundamentais",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1784,
+  "Autor": "Gabriel Vila Verde",
+  "Livro": "Maria Milza - milagres e mistérios nio Sertão da Bahia",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1785,
+  "Autor": "Maria Luísa López Laguna",
+  "Livro": "Thomas Merton - uma vida com horizonte",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1786,
+  "Autor": "Rollo May",
+  "Livro": "Liberdade e destino",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1787,
+  "Autor": "Luiz Roberto Lopez",
+  "Livro": "História do Brasil Imperial",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1788,
+  "Autor": "Congregação IVCSVAP",
+  "Livro": "Ano da vida consagrada - orientações para a gestão de bens nos institutos de vida consagrada e nas sociedades de vida apostólica",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1789,
+  "Autor": "Paulo Suess",
+  "Livro": "A conquista espiritual da américa Espanhola",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1790,
+  "Autor": "Keith L. Moore",
+  "Livro": "Embriologia clínica",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1791,
+  "Autor": "Philippe Riutort",
+  "Livro": "Compêndio de sociologia",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1792,
+  "Autor": "John H. Schaar",
+  "Livro": "O mundo de Erich Fromm",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1793,
+  "Autor": "Simove de Beauvoir",
+  "Livro": "O segundo sexo - 2 a Experiência vivida",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1794,
+  "Autor": "Dom Tihamér Tóth",
+  "Livro": "Pai nosso",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1795,
+  "Autor": "Papa João Paulo II",
+  "Livro": "Meditando o rosário",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1796,
+  "Autor": "Papa João Paulo II",
+  "Livro": "Via-Sacra",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1797,
+  "Autor": "Papa João Paulo II",
+  "Livro": "Via-Sacra",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1798,
+  "Autor": "H. Cazelles",
+  "Livro": "Dicionário Mariano -2",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1799,
+  "Autor": "Padre Júlio Lancellotti",
+  "Livro": "Tinha uma pedra no meio do caminho - Invisíveis em situação de rua",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1800,
+  "Autor": "Segundo Galieleia",
+  "Livro": "Contemplação e engajamento",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1801,
+  "Autor": "Luiz Roberto Lopez",
+  "Livro": "História do Brasil Contemporâneo",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1802,
+  "Autor": "Pe. Luiz Cechianato",
+  "Livro": "Palavra de Deus - Palavras de Vida",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1803,
+  "Autor": "Maria Luísa Dagnino",
+  "Livro": "Bakhita - da escravidão à liberdade",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1804,
+  "Autor": "Frei Carlos Josaphat",
+  "Livro": "Las casas - Deus no outro, no social e na luta",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1805,
+  "Autor": "Kátia m. de Queirós Mattoso",
+  "Livro": "Textos e documentos para o estudo da história contemporânea (1789-1963)",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1806,
+  "Autor": "Henryk Sienkiewicz",
+  "Livro": "Quo Vadis?",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1807,
+  "Autor": "John Gray",
+  "Livro": "Homens, mulheres e relacionamentos - fazendo as pazes com o sexo oposto",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1808,
+  "Autor": "Richard Gordon",
+  "Livro": "A assustadora história da medicina",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1809,
+  "Autor": "Dr. Roque Marcos Savioli",
+  "Livro": "Um coração de mulher",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1810,
+  "Autor": "Lee Ezell",
+  "Livro": "Só para mulheres - como tornar-se forte e amorosa",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1811,
+  "Autor": "Eduardo Hoornaert",
+  "Livro": "Experiência de Deus e justiça - A memória do povo cristão",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1812,
+  "Autor": "Viviane Forrester",
+  "Livro": "O horror econômico",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1813,
+  "Autor": "Segundo Galielea",
+  "Livro": "Seguir a Cristo",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1814,
+  "Autor": "Dilermando Ramos Vieira",
+  "Livro": "O processo de reforma e reorganização da Igreja no Brasil (1844 - 1926)",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1815,
+  "Autor": "Papa Francisco",
+  "Livro": "A família",
+  "Setor": "z13",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1816,
+  "Autor": "Papa Francisco",
+  "Livro": "A santa Missa",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1817,
+  "Autor": "Papa Francisco",
+  "Livro": "A igreja",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1818,
+  "Autor": "CNBB",
+  "Livro": "Na fé e na Caridade - palavras do Papa Francisco",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1819,
+  "Autor": "CNBB",
+  "Livro": "Papa Francisco - mensagens e homilias - JMJ Rio 2013",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1820,
+  "Autor": "Congregação para o Culto Divino e a disciplina dos sacramentos",
+  "Livro": "Diretório Homilético",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1821,
+  "Autor": "CNBB",
+  "Livro": "A alegria de evangelizar - palavras do Papa Francisco",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1822,
+  "Autor": "X sulão de catequese",
+  "Livro": "Catequista, ministério e missão eclesial",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1823,
+  "Autor": "Papa Francisco",
+  "Livro": "O evangelho da Vida Nova - Seguir Cristo, servir o homem",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1824,
+  "Autor": "CNBB",
+  "Livro": "Abertos à surpresa de Deus - Palavras do Papa Francisco",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1825,
+  "Autor": "CNBB",
+  "Livro": "\"Não vos deixeis roubar a esperança\" - Palavras do Papa Francisco",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1826,
+  "Autor": "CNBB",
+  "Livro": "Na fé e na Caridade - palavras do Papa Francisco",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1827,
+  "Autor": "CNBB",
+  "Livro": "Jesus nos quer unidos - palavras do Papa Francisco",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1828,
+  "Autor": "Howard W. Stone",
+  "Livro": "Depressão e esperança",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1829,
+  "Autor": "Erich Fromm",
+  "Livro": "L'arte di vivere - a cura di Rainer Funk",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1830,
+  "Autor": "Júlio Cézar Arroyo Guariente",
+  "Livro": "Depressão - dos sintomas ao tratamento",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1831,
+  "Autor": "Darcy Ribeiro",
+  "Livro": "O processo civilizatório",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1832,
+  "Autor": "Tomás de Kempis",
+  "Livro": "Imitação de Cristo",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1833,
+  "Autor": "Anne Frank",
+  "Livro": "Diario de uma jovem",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1834,
+  "Autor": "Frei Alberto Beckhauser",
+  "Livro": "Novas mudanças na Missa",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1835,
+  "Autor": "Pierre-Gérard Vassal",
+  "Livro": "Curso completo de Maçonaria - história geral da iniciação",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1836,
+  "Autor": "Erik Odeblad",
+  "Livro": "A descoberta de diferentes tipos de muco cervical e o método de ovulação billings",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1837,
+  "Autor": "Leornado Boff",
+  "Livro": "Cristianismo - O mínimo do mínimo",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1838,
+  "Autor": "Elisabeth Kubler-ross",
+  "Livro": "Sobre a morte e o morrer",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1839,
+  "Autor": "Sonia Biffi",
+  "Livro": "Caminhos de encontro e descobertas - dinâmicas e vivências",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1840,
+  "Autor": "Congregação para o clero",
+  "Livro": "O presbítero - pastor e guia da comunidade paroquial - instrução",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1841,
+  "Autor": "C. G. Jung",
+  "Livro": "O eu e o insconsciente",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1842,
+  "Autor": "Manoel Ribeiro Rocha",
+  "Livro": "Etíope Resgatado - empenhado, sustentado, corrigido, instruído e libertado",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1843,
+  "Autor": "Sínodo dos Bipos",
+  "Livro": "XV Assembléia geral ordinária - Os jovens, a fé e o discernimento vocacional",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1844,
+  "Autor": "Leornado Boff",
+  "Livro": "Feminino e masculino",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1845,
+  "Autor": "Adolfo Sánchez Vázquez",
+  "Livro": "Ética",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1846,
+  "Autor": "P. Júlio Comba",
+  "Livro": "Gramática Latina",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1847,
+  "Autor": "Sest Senat",
+  "Livro": "Código de Trânsito Brasileiro",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1848,
+  "Autor": "Vanderlei Danielski",
+  "Livro": "Depressão e suicídio na adolescência",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1849,
+  "Autor": "CNBB",
+  "Livro": "Roteiro de celebrações dominicais - advento e natal de 1996",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1850,
+  "Autor": "Javier Gafo Fernández",
+  "Livro": "10 palavras-chave em Bioética",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1851,
+  "Autor": "…",
+  "Livro": "A luta dos deuses - Os ídolos da opressão e a busca do Deus libertador",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1852,
+  "Autor": "Live Toltói",
+  "Livro": "Guerra e paz ",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1853,
+  "Autor": "Antônio Xavier Teles",
+  "Livro": "Psicologia moderna",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1854,
+  "Autor": "Edvino Augusto Friderichs",
+  "Livro": "Panorama da parapsicologia ao alcance de todos",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1855,
+  "Autor": "Linda e Charlie Bloom",
+  "Livro": "101 coisas que não me contaram antes do casamento",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1856,
+  "Autor": "José Comblim",
+  "Livro": "\"A oração dos pobres\" - Instruções espirtuais do Padre Ibiapina",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1857,
+  "Autor": "Frei Carlos Josaphat",
+  "Livro": "Ética e Mídia - Liberdade, responsabilidade e sistema",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1858,
+  "Autor": "CRB nacional",
+  "Livro": "Permanece conosco! Subsídios para a XXIII AGE",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1859,
+  "Autor": "Wilhelm Reich",
+  "Livro": "Análise do Carater",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1860,
+  "Autor": "Mário Maestri",
+  "Livro": "Breve história da Escravidão",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1861,
+  "Autor": "Viktor E. Frankl",
+  "Livro": "A vontade de Sentido - fundamentos e aplicações da logoterapia",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1862,
+  "Autor": "Viktor E. Frankl",
+  "Livro": "A vontade de Sentido - fundamentos e aplicações da logoterapia",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1863,
+  "Autor": "Eduardo López Azpitarte",
+  "Livro": "Ética da sexualidade e do matrimônio",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1864,
+  "Autor": "Marciano Vidal",
+  "Livro": "Moral do amor e da sexualidade",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1865,
+  "Autor": "Goethe",
+  "Livro": "Os sofrimentos do jovem Werther",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1866,
+  "Autor": "CNBB",
+  "Livro": "Diretrizes gerais da ação evangelizadora da Igreja no Brasil 2011-2015",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1867,
+  "Autor": "Charles Dickens",
+  "Livro": "Cântico de Natal \/ Os carrilhões",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1868,
+  "Autor": "Campanha da Fraternidade",
+  "Livro": "Texto base de 2017 - Biomas brasileiros e defesa da vida",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1869,
+  "Autor": "Karl Marx",
+  "Livro": "O 18 brumário de Luís Bonaparte",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1870,
+  "Autor": "Karl Marx",
+  "Livro": "O capital - livro 3 - vol 5",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1871,
+  "Autor": "Karl Marx",
+  "Livro": "O capital - livro 3 - vol 4",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1872,
+  "Autor": "Manuel Iceta",
+  "Livro": "A família como vocação",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1873,
+  "Autor": "Dom Eusébio Oscar Scheid",
+  "Livro": "Preparação para o casamento e para vida familiar",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1874,
+  "Autor": "Segundo Galileia",
+  "Livro": "Espiritualidade da evangelização - segundo as bem aventuranças",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1875,
+  "Autor": "Itamar Vian",
+  "Livro": "Sabedoria da Vida - histórias que ensinam",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1876,
+  "Autor": "CNBB",
+  "Livro": "2 - Marialis Cultus",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1877,
+  "Autor": "CNBB",
+  "Livro": "3- Redemptoris Mater",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1878,
+  "Autor": "CNBB",
+  "Livro": "4- Rosarium Virginis Mariae",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1879,
+  "Autor": "CNBB",
+  "Livro": "5- Signum Magnum",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1880,
+  "Autor": "CNBB",
+  "Livro": "6- Inefabilis Deus",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1881,
+  "Autor": "CNBB",
+  "Livro": "8- Munificentissimus Deus",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1882,
+  "Autor": "CNBB",
+  "Livro": "9- Fulgens Corona",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1883,
+  "Autor": "CNBB",
+  "Livro": "Diretrizes gerais da ação evangelizadora da Igreja no Brasil 2019-2023",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1884,
+  "Autor": "Geraldo E. Dallegrave",
+  "Livro": "Reencarnação",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1885,
+  "Autor": "Karl Marx",
+  "Livro": "O capital - livro 3 - vol 6",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1886,
+  "Autor": "Karl Marx",
+  "Livro": "O capital - Livro 1 - vol 2",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1887,
+  "Autor": "Silas Guerriero",
+  "Livro": "A magia existe?",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1888,
+  "Autor": "Ghandi",
+  "Livro": "Teoria e prática della non violenza",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1889,
+  "Autor": "José Ignacio Gonzáles Faus",
+  "Livro": "Vigários de Cristo - os pobres na teologia e espiritualidade Cristã",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1890,
+  "Autor": "Pierre-Teihard de Chardim",
+  "Livro": "O meio Divino",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1891,
+  "Livro": "Tristão e Isolda - Lenda medieval celta de amor",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1892,
+  "Autor": "Christian Arnspeger",
+  "Livro": "Ética econômica e social",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1893,
+  "Autor": "CNBB",
+  "Livro": "Plano pastoral de Conjunto 1966-1970",
+  "Setor": "z14",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1894,
+  "Autor": "Renate Jost de Moraes",
+  "Livro": "O inconsciente sem fronteiras",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1895,
+  "Autor": "Albino Aresi",
+  "Livro": "Fundamentos científicos de Parapsicologia",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1896,
+  "Autor": "Padre Christian Heim",
+  "Livro": "Frei - Uma conversa com Hans Stapel",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1897,
+  "Autor": "Gilberto Cotrim",
+  "Livro": "Fundamentos da Filosofia - história e grandes temas",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1898,
+  "Autor": "Ep ",
+  "Livro": "Enciclopédia ilustrada da Bíblia",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1899,
+  "Autor": "…",
+  "Livro": "Os grandes mistéiros do passado",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1900,
+  "Livro": "Brasil - Histórias, costumes e lendas",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1901,
+  "Autor": "Aristóteles ",
+  "Livro": "Poética e tópicos I,II,III, E IV",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1902,
+  "Autor": "Baltasar Gracián",
+  "Livro": "A arte da sabedoria",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1903,
+  "Autor": "Ave Maria",
+  "Livro": "Bíblia Sagrada - edição catequética Popular",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1904,
+  "Autor": "Júlio Verne",
+  "Livro": "Da terra à lua",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1905,
+  "Autor": "John Bunyan",
+  "Livro": "O peregrino - A viagem do Cristão à celestial",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1906,
+  "Autor": "Paulo VI",
+  "Livro": "O credo do Povo de Deus",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1907,
+  "Autor": "Alessandro Manenti",
+  "Livro": "Vocação, psicologia e graça",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1908,
+  "Autor": "Dr.Marc Schwob",
+  "Livro": "Como vencer a depressão ",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1909,
+  "Autor": "Márcio Mendes",
+  "Livro": "Nada vos poderá fazer mal",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1910,
+  "Autor": "Sonia Tozzi",
+  "Livro": "O amor enxuga as lágrimas",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1911,
+  "Autor": "José Fernandes de Oliveira - (Pe. Zezinho SCJ)",
+  "Livro": "O sexo que Deus lhe deu",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1912,
+  "Autor": "J. Simões Jorge",
+  "Livro": "Puebla, libertação do homem pobre",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1913,
+  "Autor": "Paulo VI",
+  "Livro": "A evangelização do mundo Contemporâneo",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1914,
+  "Autor": "Pe. J.B Libânio",
+  "Livro": "A evangelização no presente e no futuro da América Latina",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1915,
+  "Autor": "Santo Afonso de Ligório",
+  "Livro": "Glórias de Maria",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1916,
+  "Autor": "CFC",
+  "Livro": "Centro de formação de condutores - nova técnica ",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1917,
+  "Autor": "Pe. Reginaldo Manzotti",
+  "Livro": "O poder oculto",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1918,
+  "Autor": "Papa Francisco",
+  "Livro": "Amoris Laetitia - sobre o amor na família",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1919,
+  "Autor": "Fábio de Melo ",
+  "Livro": "Quando o sofrimento bater à sua porta",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1920,
+  "Autor": "Papa João Paulo II",
+  "Livro": "A missão da família cristã no mundo de hoje",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1921,
+  "Autor": "Franz Hinkelammert",
+  "Livro": "As armas ideológicas da morte",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1922,
+  "Autor": "Rousseau",
+  "Livro": "Discurso sobre a origem e os fundamentos da Desigualdade entre os homens",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1923,
+  "Autor": "Giorgio Masin",
+  "Livro": "Da arte de Amar",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1924,
+  "Autor": "S.O.S português",
+  "Livro": "Melhoramentos - guia prático de gramática",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1925,
+  "Autor": "Rideel LTDA",
+  "Livro": "Dicionário - sinônimos e antônimos e homônimos",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1926,
+  "Autor": "Everton Florenzano",
+  "Livro": "Tesouro de Sinônimos e Antônimos e idéias afins",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1927,
+  "Autor": "Loyola",
+  "Livro": "Compêndio do Catecismo da Igreja Católica",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1928,
+  "Autor": "n. identificado",
+  "Livro": "O caminho",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1929,
+  "Autor": "Folha de São Paulo ",
+  "Livro": "Bíblia Sagrada",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1930,
+  "Autor": "São Tomás de Aquino",
+  "Livro": "Catena aurea - São Marcos",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1931,
+  "Autor": "São Tomás de Aquino",
+  "Livro": "Catena aurea - São Mateus",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1932,
+  "Autor": "São Tomás de Aquino",
+  "Livro": "Catena aurea - São Lucas",
+  "Setor": "z15",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1933,
+  "Autor": "Paulus",
+  "Livro": "30 dias com Santo Agostinho",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1934,
+  "Autor": "Sociedade de São Vicente de Paulo",
+  "Livro": "\"Assim, pouis haveis de orar\"",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1935,
+  "Autor": "Aluísio Azevedo",
+  "Livro": "O cortiço",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1936,
+  "Autor": "Giorgio Masin",
+  "Livro": "A pedagogia do oprimido - compilado",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1937,
+  "Autor": "Os pensadores",
+  "Livro": "Schopenhauer",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1938,
+  "Autor": "Revista de interpretação Bíblica Latino-americana",
+  "Livro": "Vida em comunidade",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1939,
+  "Autor": "Wallace Lima",
+  "Livro": "O poder da autocura",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1940,
+  "Autor": "…",
+  "Livro": "Pequeno Devocionário Antoniano",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1941,
+  "Autor": "Leornado Boff",
+  "Livro": "O caminhar da Igreja com os oprimidos - Do vale de Lágrimas à Terra prometida",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1942,
+  "Autor": "Leornado Boff",
+  "Livro": "Nova era: civilização planetária",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1943,
+  "Autor": "…",
+  "Livro": "Meditando com Santa Teresa de Jesus - roteiro para um mês",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1944,
+  "Livro": "30 dias com São João da Cruz",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1945,
+  "Livro": "Teo - 1991",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1946,
+  "Livro": "Teo - 1990",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1947,
+  "Livro": "Teo - 1992",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1948,
+  "Autor": "Revista de interpretação Bíblica Latino-americana",
+  "Livro": "Re-imaginando a masculinadade",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1949,
+  "Autor": "Revista de interpretação Bíblica Latino-americana",
+  "Livro": "Deuteropaulinas: Um corpo estranho no corpo paulino?",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1950,
+  "Autor": "Revista de interpretação Bíblica Latino-americana",
+  "Livro": "Reprodução Humana - complexidade e desafios",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1951,
+  "Autor": "Revista de interpretação Bíblica Latino-americana",
+  "Livro": "Profetas anteriores",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1952,
+  "Autor": "Revista de interpretação Bíblica Latino-americana",
+  "Livro": "Pacto de Vida e pactos de morte",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1953,
+  "Autor": "Revista de interpretação Bíblica Latino-americana",
+  "Livro": "Perdoa-nos nossas dívidas",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1954,
+  "Autor": "PUC",
+  "Livro": "Revista 1972",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1955,
+  "Autor": "PUC ",
+  "Livro": "Revista 1971",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1956,
+  "Autor": "PUC ",
+  "Livro": "Revista 1970",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1957,
+  "Livro": "Teo - Civilização urbana e cristianismo",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1958,
+  "Livro": "Teo - A Igreja do Rio Grande do Sul",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1959,
+  "Livro": "Teo - Ética da libertação",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1960,
+  "Livro": "Teo - Despenalização do aborto?",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1961,
+  "Autor": "Nelson Piletti",
+  "Livro": "História e vida - volume 2",
+  "Setor": "z2",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1962,
+  "Autor": "Guilherme De Ockham",
+  "Livro": "Brevilóqui sobre o principado tirânico",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1963,
+  "Autor": "Celso Furtado",
+  "Livro": "O capitalismo global",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1964,
+  "Autor": "José Murilo de Carvalho",
+  "Livro": "Cidadania no Brasil - o longo caminho",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1965,
+  "Autor": "Robert Kandel",
+  "Livro": "O reaquecimento climático",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1966,
+  "Autor": "Hans Kung",
+  "Livro": "Uma ética global para a política e a economia mundiais",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1967,
+  "Autor": "Jung Mo Sung",
+  "Livro": "A idolatria do capital e a morte dos pobres",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1968,
+  "Autor": "Dr. Hugo Schlesinger",
+  "Livro": "Geografia universal das religiões",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1969,
+  "Autor": "Stefan Zweig",
+  "Livro": "A cura pelo espírito",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1970,
+  "Autor": "Malcolm Montgomery",
+  "Livro": "Mulher- uma visão científica e humana do universo feminino",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1971,
+  "Autor": "Paulo Rónai ",
+  "Livro": "Gradus Secundus - curso básico de Latim",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1972,
+  "Autor": "Paulo Rónai ",
+  "Livro": "Não perca o seu Latim",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1973,
+  "Autor": "Cónego Moysés Nora",
+  "Livro": "Sátrapas e… Mais Oito!",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1974,
+  "Autor": "Simone de Beauvoir",
+  "Livro": "O segundo sexo 1- Fatos e mitos",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1975,
+  "Autor": "Paulo Freire",
+  "Livro": "Pedagogia dos sonhos possíveis ",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1976,
+  "Autor": "Haring",
+  "Livro": "Shalom - o sacramento da reconciliação paz",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1977,
+  "Autor": "Erik H. Erikson",
+  "Livro": "Infância e sociedade",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1978,
+  "Autor": "Marx e Engels",
+  "Livro": "A ideologia Alemã",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1979,
+  "Autor": "Daryl Sharp",
+  "Livro": "Léxico Junguiano - dicionário de termos e conceitos",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1980,
+  "Autor": "Hans Staden",
+  "Livro": "Viagem ao Brasil",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1981,
+  "Autor": "Dr. Hugo Schlesinger",
+  "Livro": "Líderes religiosos da humanidade - tomo 2- k-z",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1982,
+  "Autor": "Giacomo Dacquino",
+  "Livro": "Che Cos'è l´Amore",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1983,
+  "Autor": "Karl Marx",
+  "Livro": "Miséria da filosofia",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1984,
+  "Autor": "Franz Kafka",
+  "Livro": "O castelo ",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1985,
+  "Autor": "Voltaire",
+  "Livro": "Dicionário Filosófico",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1986,
+  "Autor": "Immanuel Kant",
+  "Livro": "Crítica da Razão Prática",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1987,
+  "Autor": "Ovídio ",
+  "Livro": "A arte de Amar",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1988,
+  "Autor": "La Fontaine",
+  "Livro": "Fábulas",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1989,
+  "Autor": "Paulo Freire",
+  "Livro": "Política e educação",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1990,
+  "Autor": "Sérgio Buarque de Holanda",
+  "Livro": "Raízes do Brasil",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1991,
+  "Autor": "Erich Fromm",
+  "Livro": "Caráter Social de uma Aldeia",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1992,
+  "Autor": "Zygmunt Bauman",
+  "Livro": "O mal-estar da pós-modernidade",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1993,
+  "Autor": "Marcelo Duarte",
+  "Livro": "O guia dos curiosos",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1994,
+  "Autor": "Ives Gandra Martins Filho",
+  "Livro": "Manual esquemático de Filosofia",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1995,
+  "Autor": "Gabriel Cohn",
+  "Livro": "Weber - sociologia",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1996,
+  "Autor": "Teilhard de Chardin",
+  "Livro": "O Fenômeno humano",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1997,
+  "Autor": "William Outhwaire",
+  "Livro": "Dicionário pensamento social - do Século XX",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1998,
+  "Autor": "Karl Polanyi",
+  "Livro": "A grande transformação - as origens da nossa época",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 1999,
+  "Autor": "Theotonio dos Santos",
+  "Livro": "Do terror à esperança - auge e declíniio do neoliberalismo",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2000,
+  "Autor": "Lewis Wallace",
+  "Livro": "Ben-hur",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2001,
+  "Autor": "John Stuart Mill ",
+  "Livro": "Sobre a liberdade",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2002,
+  "Autor": "Sándor Ferenczi",
+  "Livro": "Thalassa - ensaio sobre a teoria da genitalidade",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2003,
+  "Autor": "Castro Alves",
+  "Livro": "Os escravos",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2004,
+  "Autor": "Zelita Seabra",
+  "Livro": "Identidade Feminina",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2005,
+  "Autor": "Oscar G. Quevedo",
+  "Livro": "A face oculta da mente",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2006,
+  "Autor": "Objetivo",
+  "Livro": "Apóstila Biologia - Livro 3",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2007,
+  "Autor": "Marilena Chaui",
+  "Livro": "Iniciação à filosofia - ensino médio",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2008,
+  "Autor": "Objetivo",
+  "Livro": "Apóstila Biologia - Livro 2",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2009,
+  "Autor": "André Santos Novaes",
+  "Livro": "Comentários e anotações sobre o processo penal de Jesus - O galileu",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2010,
+  "Autor": "Ronaldo Segio de Biasi",
+  "Livro": "As mil e uma noites",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2011,
+  "Autor": "Fernanda Cury",
+  "Livro": "Napoleão Bonaparte",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2012,
+  "Autor": "Matteo Bandello",
+  "Livro": "Romeu e julieta",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2013,
+  "Autor": "JohnBowker",
+  "Livro": "Os sentidos da Morte",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2014,
+  "Autor": "Iris Barbosa Goulart",
+  "Livro": "Piaget - experiências básicas para utilização pelo professor",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2015,
+  "Autor": "Allan Kardec",
+  "Livro": "O livro dos médiuns (capa marrom de bolso)",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2016,
+  "Autor": "Lew Wallace",
+  "Livro": "Ben-hur - uma história dos tempos de Cristo",
+  "Setor": "z4",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2017,
+  "Autor": "Joaquim Campos Herrero",
+  "Livro": "Inteligência emocional - saus capacidades mais humanas",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2018,
+  "Autor": "…",
+  "Livro": "Atlas da Bíblia",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2019,
+  "Autor": "Silvio Botero",
+  "Livro": "Filhos de pais separados",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2020,
+  "Autor": "Judith Wallerstein",
+  "Livro": "Filhos do divórcio",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2021,
+  "Autor": "Tom Horner",
+  "Livro": "O sexo na bíblia",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2022,
+  "Autor": "Lenore Fogelson Millan",
+  "Livro": "O clube das segundas esposas",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2023,
+  "Autor": "Luiz Alfredo Garcia-Roza",
+  "Livro": "Freud e o inconsciente",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2024,
+  "Autor": "Sigmund Freud",
+  "Livro": "O Ego e o Id",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2025,
+  "Autor": "Anna Freud",
+  "Livro": "O Ego e os mecanismos de defesa",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2026,
+  "Autor": "Claude Levi-strauss",
+  "Livro": "As estruturas elementares do parentesco",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2027,
+  "Autor": "Rollo May",
+  "Livro": "Poder e inocência - uma análise das fontes da violência",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2028,
+  "Autor": "Fátima Regina Machado",
+  "Livro": "Conversando sobre aparições e fanstasmas",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2029,
+  "Autor": "Erik H. Erikson",
+  "Livro": "Identidade juventude e crise",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2030,
+  "Autor": "Allan e Barbara Pease",
+  "Livro": "Desvendando os segredos da Atração sexual",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2031,
+  "Autor": "Onofre Antonio Menezes",
+  "Livro": "Parapsicologia e regressão da idade",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2032,
+  "Autor": "Editora Abril",
+  "Livro": "Manual de estilo - um manual prático de redação para jornalistas, escritores, editores, estudantes e profissionais ou amadores.",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2033,
+  "Autor": "Fátima Regina Machado",
+  "Livro": "Conversando sobre casas mal-assombradas",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2034,
+  "Autor": "Wilhelm Reich",
+  "Livro": "A revolução sexual",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2035,
+  "Autor": "Thomas Merton",
+  "Livro": "A vida silenciosa",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2036,
+  "Autor": "Françoise Dolto",
+  "Livro": "Quando os pais se separam",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2037,
+  "Autor": "James A. Hall",
+  "Livro": "Sonhos - símbolos religiosas da inconciente",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2038,
+  "Autor": "Michele De Beni e outros",
+  "Livro": "Psicologia e sociologia - curso introdutório (Paulus)",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2039,
+  "Autor": "Robert Raulmann",
+  "Livro": "\"E vós quem dizeis que eu sou?\" - elementos fundamentais de Cristologia",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2040,
+  "Autor": "Felipe Sérgio Koller",
+  "Livro": "Tocados pelo mistério de Deus-Amor - uma introdução à liturgia",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2041,
+  "Autor": "Roberto Nentwig",
+  "Livro": "Catequese na nova evangelização - temas de catequética fundamental",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2042,
+  "Autor": "Francisco Albertin",
+  "Livro": "Explicando as cartas de São Paulo",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2043,
+  "Autor": "CIVSVA",
+  "Livro": "Anunciai - aos consagrados e às consagradas testemunhas do Evangelho entre os povos",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2044,
+  "Autor": "CIVSVA",
+  "Livro": "Ano da vida consagrada - orientações para a gestão de bens nos institutos de vida consagrada e nas sociedades de vida apostólica",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2045,
+  "Autor": "CIVSVA",
+  "Livro": "Ano da vida consagrada - contemplai - aos consagrados(as) sobre os sinais da beleza",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2046,
+  "Autor": "CIVSVA",
+  "Livro": "Ano da vida consagrada - contemplai - aos consagrados(as) sobre os sinais da beleza",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2047,
+  "Autor": "Canossianos",
+  "Livro": "O irmão canossiano - significado de uma consagração - exercitação para o título de Bacharel em Teologia",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2048,
+  "Autor": "CNBB",
+  "Livro": "Diretrizes para a formação dos presbíteros da Igreja no Brasil",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2049,
+  "Autor": "…",
+  "Livro": "Critérios e itinerários para a instituição dod ministério de catequista",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2050,
+  "Autor": "Papa Francisco",
+  "Livro": "Evangelii Gaudium - a alegria do evangelho",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2051,
+  "Autor": "Congregação para a doutrina da Fé",
+  "Livro": "Instrução sobre as orações para alcançar de Deus a cura",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2052,
+  "Autor": "Ney de Souza",
+  "Livro": "Santo Domingo - Evangelização entre a integração e a inculturação",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2053,
+  "Autor": "Congregação para a educação católica",
+  "Livro": "Orientações pastorais para a promoção das vocações ao ministério presbiteral",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2054,
+  "Autor": "Pontifício Conselho para as comunicações sociais",
+  "Livro": "Ética na internet",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2055,
+  "Autor": "Jean Huscenot",
+  "Livro": "Os doutores da Igreja",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2056,
+  "Autor": "Pe. Machado",
+  "Livro": "Aparecida - na história e na literatura",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2057,
+  "Autor": "Fernando Torres, CMF",
+  "Livro": "Meditações sobre as leituras dominicais - Ano A,B, C domingos e dias de festa",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2058,
+  "Autor": "Padre Alfeu piso",
+  "Livro": "A nossa história como história de salvação e vida ou condenação e morte - vol 1 - o tempo da promessa",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2059,
+  "Autor": "Conselho Nacional ECC",
+  "Livro": "Orientações para os dias de formação",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2060,
+  "Autor": "G. Penzo",
+  "Livro": "Nietzsche e o cristianismo",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2061,
+  "Autor": "Frei Alberto Beckhauser",
+  "Livro": "Os fundamentos da Sagrada Liturgia",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2062,
+  "Autor": "Arquidiocese de Juiz de For a - MG",
+  "Livro": "O leigo missionário - evangelizando e celebrando",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2063,
+  "Livro": "Catecismo da Igreja Católica",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2064,
+  "Autor": "Arquidiocese de Ribeirão Preto",
+  "Livro": "Regimento para os conselhos de Pastoral Paroquial (CPP)",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2065,
+  "Autor": "Santo Agostinho",
+  "Livro": "Confissões",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2066,
+  "Autor": "Hans Walter Wolff",
+  "Livro": "Antropologia do antigo testamento",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2067,
+  "Autor": "Eduardo Hoornaert",
+  "Livro": "Origens do Cristianismo",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2068,
+  "Autor": "Ivo Sotrniolo",
+  "Livro": "Conheça a Bíblia",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2069,
+  "Autor": "Congregação para o clero",
+  "Livro": "Diretório para o ministério e a vida dos presbíteros",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2070,
+  "Autor": "Papa João Paulo II",
+  "Livro": "A catequese de hoje",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2071,
+  "Autor": "M. A. Barbosa",
+  "Livro": "Cartilha sobre a doutrina social da Igreja",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2072,
+  "Autor": "….",
+  "Livro": "Documento de Aparecida - Linguagem popular",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2073,
+  "Autor": "…",
+  "Livro": "Dizionario Di psicologia (box preto)",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2074,
+  "Autor": "Wellington Zangari",
+  "Livro": "Conversando sobre hipnose",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2075,
+  "Autor": "…",
+  "Livro": "Manual de primeiros socorros",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2076,
+  "Autor": "Vanderlei Danielski",
+  "Livro": "Dor de cabeça - por que a criança sente a cabeça estourar?",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2077,
+  "Autor": "Doutrina da Fé",
+  "Livro": "Considerações sobre os projetos de reconhecimento legal das uniões entre pessoas homossexuais",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2078,
+  "Autor": "André Millete",
+  "Livro": "Saúde - nas mãos do povo",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2079,
+  "Autor": "Carlos Afonso Schmitt",
+  "Livro": "Liberte-se perdoando - a terapia do perdão para a cura interior",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2080,
+  "Autor": "CNBB",
+  "Livro": "A dignidade da vida humana e as biotecnologias",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2081,
+  "Autor": "Frei Alberto Beckhauser",
+  "Livro": "Instrução geral sobre o missal romano",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2082,
+  "Autor": "Carlos Afonso Schmitt",
+  "Livro": "Auto-estima - o toque mágico de uma vida feliz",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2083,
+  "Autor": "…",
+  "Livro": "Ordinário da Santa Missa",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "ID": 2084,
+  "Autor": "…",
+  "Livro": "Iniciação a Vida Cristã - apostila de celebrações e ritos",
+  "Setor": "z3",
+  "Área": "Diversos"
+ },
+ {
+  "Autor": "Teresio Bosco",
+  "Livro": "Edith Stein",
+  "Setor": "z5"
+ },
+ {
+  "Autor": "Thomas Merton",
+  "Livro": "Homem algum é uma ilha"
+ },
+ {
+  "Autor": "Rodrigo Alvarez",
+  "Livro": "Maria"
+ },
+ {
+  "Livro": "Identidade e missão do religioso irmão na Igreja"
+ },
+ {
+  "Autor": "Mizaél Donizetti Pugioli",
+  "Livro": "Dignidade dos pobres"
+ },
+ {
+  "Autor": "Roberto Italo Zanini",
+  "Livro": "Bakhita - inchiesta su una santa per il 2000"
+ },
+ {
+  "Autor": "Nostradamus",
+  "Livro": "As profecias"
+ },
+ {
+  "Autor": "Leornado Boff",
+  "Livro": "Paixão de Cristo Paixão do mundo"
+ },
+ {
+  "Autor": "P. João Roberto Pavani",
+  "Livro": "Evangelho de Jesus Cristo segundo Mateus - um guia de estudo"
+ },
+ {
+  "Autor": "Santa madalena de Canossa",
+  "Livro": "Vida e Obra de Santa Madalena de Canossa"
+ },
+ {
+  "Autor": "…",
+  "Livro": "30 Dias com Santa Teresa de Jesus"
+ },
+ {
+  "Livro": "30 dias com São Frncisco de Assis"
+ },
+ {
+  "Autor": "Maria Cecília de M. Duprat",
+  "Livro": "Orações do dia-a-dia"
+ },
+ {
+  "Autor": "Pe. Zezinho",
+  "Livro": "A família em 1 minuto"
+ },
+ {
+  "Autor": "Maria Mercedes",
+  "Livro": "Ser feliz! A decisão é sua - reconheça a felicidade a partir das próprias atitudes"
+ },
+ {
+  "Livro": "30 dias com Santa Teresinha do menino Jesus"
+ },
+ {
+  "Autor": "Severino Vicente da Silva",
+  "Livro": "Igreja e o contro social nos sertões nordestinos"
+ },
+ {
+  "Autor": "Profetas do Reino ",
+  "Livro": "Apresentação de familias religiosas no Brasil"
+ },
+ {
+  "Autor": "…",
+  "Livro": "A devoção aos Anjos de Deus - orações para invocar proteção e bênçãos"
+ },
+ {
+  "Autor": "…",
+  "Livro": "Cantos para encontros de casais com Cristo"
+ },
+ {
+  "Livro": "Cantos para encontros de casais com Cristo"
+ },
+ {
+  "Autor": "Vanderlei Danielski",
+  "Livro": "Aprendizagem - por que a criança não consegue estudar?"
+ },
+ {
+  "Autor": "Santiago Insunza",
+  "Livro": "Santo Agostinho - um enamorado da vida"
+ },
+ {
+  "Autor": "Edvino Augusto Friderichs",
+  "Livro": "Caixinha de perguntas sobre religião e superstições"
+ },
+ {
+  "Autor": "Mizaél Donizetti Pugioli",
+  "Livro": "Tecendo a caridade"
+ },
+ {
+  "Autor": "Segundo Galilea",
+  "Livro": "Evangelizar os pobres?"
+ },
+ {
+  "Autor": "Silvestro Mischtelli",
+  "Livro": "Recordando Padre Pio"
+ },
+ {
+  "Autor": "Santiago Marín",
+  "Livro": "O evangelho secreto da virgem Maria"
  }
+
 
 
 
